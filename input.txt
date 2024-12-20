@@ -1,0 +1,1732 @@
+1
+1
+Gran Premio Motul de la Comunitat Valenciana 2023
+Circuit Ricardo Tormo
+24 - 26 Nov
+2
+Qatar Airways Grand Prix of Qatar 2023
+Lusail International Circuit
+17 - 19 Nov
+3
+PETRONAS Grand Prix of Malaysia 2023
+Petronas Sepang International Circuit
+10 - 12 Nov
+4
+OR Thailand Grand Prix 2023
+Chang International Circuit
+27 - 29 Oct
+5
+MotoGP™ Guru by Gryfyn Australian Motorcycle Grand Prix 2023
+Phillip Island
+20 - 22 Oct
+6
+Pertamina Grand Prix of Indonesia 2023
+Pertamina Mandalika Circuit
+13 - 15 Oct
+7
+Motul Grand Prix of Japan 2023
+Mobility Resort Motegi
+29 Sep - 01 Oct
+8
+IndianOil Grand Prix of India 2023
+Buddh International Circuit
+22 - 24 Sep
+9
+Gran Premio Red Bull di San Marino e della Riviera di Rimini 2023
+Misano World Circuit Marco Simoncelli
+8 - 10 Sep
+10
+Gran Premi Monster Energy de Catalunya 2023
+Circuit de Barcelona-Catalunya
+1 - 03 Sep
+11
+Motorrad Grand Prix von Österreich 2023
+Red Bull Ring-Spielberg
+18 - 20 Aug
+12
+Monster Energy British Grand Prix 2023
+Silverstone Circuit
+4 - 06 Aug
+13
+Motul TT Assen 2023
+TT Circuit Assen
+23 - 25 Jun
+14
+Liqui Moly Motorrad Grand Prix Deutschland 2023
+Sachsenring
+16 - 18 Jun
+15
+Gran Premio d'Italia Oakley 2023
+Autodromo Internazionale del Mugello
+9 - 11 Jun
+16
+Shark Grand Prix de France 2023
+Le Mans
+12 - 14 May
+17
+Gran Premio MotoGP™ Guru by Gryfyn de España 2023
+Circuito de Jerez-Ángel Nieto
+28 - 30 Apr
+18
+Red Bull Grand Prix of The Americas 2023
+Circuit Of The Americas
+14 - 16 Apr
+19
+Gran Premio Michelin® de la República Argentina 2023
+Termas de Río Hondo
+31 Mar - 02 Apr
+20
+Grande Prémio Tissot de Portugal 2023
+Autódromo Internacional do Algarve
+24 - 26 Mar
+330
+7
+J. Martin
+ES
+Prima Pramac Racing
+1446314
+7
+F. Bagnaia
+IT
+Ducati Lenovo Team
+1447727
+7
+M. Marquez
+ES
+Repsol Honda Team
+1448327
+7
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+1449257
+7
+A. Espargaro
+ES
+Aprilia Racing
+1449495
+7
+J. Miller
+AU
+Red Bull KTM Factory Racing
+1453151
+7
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+1453901
+7
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+1454916
+7
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+1457543
+7
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+1458558
+7
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+1461028
+7
+J. Mir
+ES
+Repsol Honda Team
+1461238
+7
+C. Crutchlow
+GB
+Yamalube RS4GP Racing Team
+1462371
+7
+S. Bradl
+DE
+LCR Honda CASTROL
+1463567
+7
+P. Espargaro
+ES
+GASGAS Factory Racing Tech3
+1471235
+7
+M. Pirro
+IT
+Ducati Lenovo Team
+1480276
+7
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+1521248
+8
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2219157
+8
+J. Martin
+ES
+Prima Pramac Racing
+2227806
+8
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2228012
+8
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2231800
+8
+J. Mir
+ES
+Repsol Honda Team
+2232371
+8
+J. Zarco
+FR
+Prima Pramac Racing
+2233830
+8
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2236103
+8
+M. Viñales
+ES
+Aprilia Racing
+2236348
+8
+M. Marquez
+ES
+Repsol Honda Team
+2238275
+8
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2245661
+8
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2247678
+8
+M. Oliveira
+PT
+CryptoDATA RNF MotoGP Team
+2248245
+8
+P. Espargaro
+ES
+GASGAS Factory Racing Tech3
+2248885
+8
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2250481
+8
+S. Bradl
+DE
+LCR Honda CASTROL
+2254939
+8
+M. Pirro
+IT
+Ducati Lenovo Team
+2268399
+10
+A. Espargaro
+ES
+Aprilia Racing
+2336159
+10
+M. Viñales
+ES
+Aprilia Racing
+2336536
+10
+J. Martin
+ES
+Prima Pramac Racing
+2338990
+10
+J. Zarco
+FR
+Prima Pramac Racing
+2341026
+10
+M. Oliveira
+PT
+CryptoDATA RNF MotoGP Team
+2343688
+10
+A. Marquez
+ES
+Gresini Racing MotoGP
+2346749
+10
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2346980
+10
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2347039
+10
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2349048
+10
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2349439
+10
+L. Marini
+IT
+Mooney VR46 Racing Team
+2352650
+10
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2352720
+10
+M. Marquez
+ES
+Repsol Honda Team
+2357775
+10
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2359267
+10
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2362899
+10
+I. Lecuona
+ES
+LCR Honda CASTROL
+2365019
+17
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2369085
+17
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2369306
+10
+J. Mir
+ES
+Repsol Honda Team
+2370088
+17
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2370204
+17
+J. Martin
+ES
+Prima Pramac Racing
+2371027
+17
+A. Espargaro
+ES
+Aprilia Racing
+2373845
+17
+L. Marini
+IT
+Mooney VR46 Racing Team
+2375414
+17
+D. Pedrosa
+ES
+Red Bull KTM Factory Racing
+2375456
+4
+J. Martin
+ES
+Prima Pramac Racing
+2380045
+4
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2380159
+4
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2380298
+4
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2382050
+17
+A. Marquez
+ES
+Gresini Racing MotoGP
+2384037
+4
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2384595
+17
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2384777
+17
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2384931
+4
+M. Marquez
+ES
+Repsol Honda Team
+2385407
+17
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2386294
+4
+L. Marini
+IT
+Mooney VR46 Racing Team
+2386823
+17
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2386996
+4
+A. Espargaro
+ES
+Aprilia Racing
+2387348
+4
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2387614
+17
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2388095
+4
+J. Zarco
+FR
+Prima Pramac Racing
+2389422
+4
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2391213
+4
+J. Mir
+ES
+Repsol Honda Team
+2392035
+4
+E. Bastianini
+IT
+Ducati Lenovo Team
+2392368
+4
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2394582
+4
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2395138
+17
+S. Bradl
+DE
+HRC Team
+2396379
+4
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2397685
+3
+E. Bastianini
+IT
+Ducati Lenovo Team
+2399137
+3
+A. Marquez
+ES
+Gresini Racing MotoGP
+2400672
+4
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2401352
+4
+P. Espargaro
+ES
+GASGAS Factory Racing Tech3
+2401480
+3
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2402699
+17
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2405456
+17
+I. Lecuona
+ES
+Repsol Honda Team
+2405838
+3
+J. Martin
+ES
+Prima Pramac Racing
+2409663
+3
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2414137
+3
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2416083
+17
+J. Folger
+DE
+GASGAS Factory Racing Tech3
+2416231
+3
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2417690
+3
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2418341
+3
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2418536
+3
+L. Marini
+IT
+Mooney VR46 Racing Team
+2418877
+3
+M. Viñales
+ES
+Aprilia Racing
+2420326
+3
+J. Zarco
+FR
+Prima Pramac Racing
+2422735
+3
+M. Marquez
+ES
+Repsol Honda Team
+2426216
+3
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2428077
+3
+P. Espargaro
+ES
+GASGAS Factory Racing Tech3
+2428986
+13
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2437640
+13
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2438863
+13
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2439168
+5
+J. Zarco
+FR
+Prima Pramac Racing
+2439446
+13
+A. Espargaro
+ES
+Aprilia Racing
+2439565
+13
+J. Martin
+ES
+Prima Pramac Racing
+2439574
+5
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2439647
+5
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2439923
+5
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2440262
+12
+A. Espargaro
+ES
+Aprilia Racing
+2440367
+5
+J. Martin
+ES
+Prima Pramac Racing
+2440454
+12
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2440582
+12
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2441047
+12
+M. Oliveira
+PT
+CryptoDATA RNF MotoGP Team
+2441117
+12
+M. Viñales
+ES
+Aprilia Racing
+2442468
+12
+J. Martin
+ES
+Prima Pramac Racing
+2448270
+5
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2448273
+5
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2448729
+5
+A. Espargaro
+ES
+Aprilia Racing
+2448833
+5
+A. Marquez
+ES
+Gresini Racing MotoGP
+2449142
+12
+L. Marini
+IT
+Mooney VR46 Racing Team
+2449466
+12
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2449665
+13
+A. Marquez
+ES
+Gresini Racing MotoGP
+2450077
+3
+I. Lecuona
+ES
+LCR Honda CASTROL
+2450097
+12
+J. Zarco
+FR
+Prima Pramac Racing
+2450325
+13
+L. Marini
+IT
+Mooney VR46 Racing Team
+2451814
+5
+E. Bastianini
+IT
+Ducati Lenovo Team
+2451969
+13
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2452256
+14
+J. Martin
+ES
+Prima Pramac Racing
+2452449
+14
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2452513
+3
+A. Bautista
+ES
+Aruba.it Racing
+2452701
+5
+M. Viñales
+ES
+Aprilia Racing
+2453438
+5
+L. Marini
+IT
+Mooney VR46 Racing Team
+2456524
+1
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2458535
+5
+M. Oliveira
+PT
+CryptoDATA RNF MotoGP Team
+2458889
+1
+J. Zarco
+FR
+Prima Pramac Racing
+2458895
+14
+J. Zarco
+FR
+Prima Pramac Racing
+2459462
+12
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2460314
+5
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2460395
+5
+M. Marquez
+ES
+Repsol Honda Team
+2460564
+12
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2460663
+14
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2460879
+1
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2460882
+1
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2461711
+1
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2463171
+1
+A. Marquez
+ES
+Gresini Racing MotoGP
+2463243
+1
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2463271
+14
+L. Marini
+IT
+Mooney VR46 Racing Team
+2464128
+14
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2464353
+14
+A. Marquez
+ES
+Gresini Racing MotoGP
+2466489
+1
+A. Espargaro
+ES
+Aprilia Racing
+2466549
+13
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2466975
+14
+E. Bastianini
+IT
+Ducati Lenovo Team
+2467308
+1
+L. Marini
+IT
+Mooney VR46 Racing Team
+2468021
+1
+M. Viñales
+ES
+Aprilia Racing
+2469091
+14
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2469510
+1
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2470536
+13
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2471376
+5
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2471984
+14
+M. Oliveira
+PT
+CryptoDATA RNF MotoGP Team
+2472097
+14
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2472446
+13
+L. Savadori
+IT
+Aprilia Racing
+2472724
+18
+A. Rins
+ES
+LCR Honda CASTROL
+2474649
+14
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2475398
+15
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2476863
+5
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2477109
+5
+P. Espargaro
+ES
+GASGAS Factory Racing Tech3
+2477114
+5
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2477204
+13
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2477262
+14
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2477566
+14
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2477776
+15
+J. Martin
+ES
+Prima Pramac Racing
+2477930
+14
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2477952
+18
+L. Marini
+IT
+Mooney VR46 Racing Team
+2478147
+15
+J. Zarco
+FR
+Prima Pramac Racing
+2478840
+18
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2479585
+13
+S. Bradl
+DE
+LCR Honda CASTROL
+2480144
+1
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2480230
+6
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2480293
+6
+M. Viñales
+ES
+Aprilia Racing
+2480599
+6
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2480726
+14
+A. Espargaro
+ES
+Aprilia Racing
+2480992
+15
+L. Marini
+IT
+Mooney VR46 Racing Team
+2481488
+18
+M. Viñales
+ES
+Aprilia Racing
+2482967
+13
+J. Folger
+DE
+GASGAS Factory Racing Tech3
+2483249
+18
+M. Oliveira
+PT
+CryptoDATA RNF MotoGP Team
+2484638
+20
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2485401
+15
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2485788
+20
+M. Viñales
+ES
+Aprilia Racing
+2486088
+18
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2486698
+18
+J. Zarco
+FR
+Prima Pramac Racing
+2486891
+6
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2487255
+15
+A. Espargaro
+ES
+Aprilia Racing
+2487771
+15
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2487862
+20
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2488127
+15
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2489517
+6
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2491404
+6
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2491521
+6
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2492767
+6
+E. Bastianini
+IT
+Ducati Lenovo Team
+2492977
+9
+J. Martin
+ES
+Prima Pramac Racing
+2493421
+20
+J. Zarco
+FR
+Prima Pramac Racing
+2493461
+20
+A. Marquez
+ES
+Gresini Racing MotoGP
+2493526
+20
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2493648
+20
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2493782
+20
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2493944
+15
+E. Bastianini
+IT
+Ducati Lenovo Team
+2493965
+15
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2494473
+20
+A. Espargaro
+ES
+Aprilia Racing
+2494695
+15
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2494724
+9
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2494771
+18
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2495048
+15
+M. Viñales
+ES
+Aprilia Racing
+2495973
+20
+A. Rins
+ES
+LCR Honda CASTROL
+2496992
+9
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2497233
+9
+D. Pedrosa
+ES
+Red Bull KTM Factory Racing
+2497902
+16
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2497970
+15
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2498810
+3
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2501299
+14
+J. Folger
+DE
+GASGAS Factory Racing Tech3
+2501411
+1
+L. Savadori
+IT
+CryptoDATA RNF MotoGP Team
+2501832
+16
+J. Martin
+ES
+Prima Pramac Racing
+2502226
+20
+J. Mir
+ES
+Repsol Honda Team
+2502393
+18
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2502630
+16
+J. Zarco
+FR
+Prima Pramac Racing
+2502765
+15
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2502769
+6
+A. Rins
+ES
+LCR Honda CASTROL
+2502833
+20
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2502849
+18
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2502866
+15
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2503363
+2
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2503654
+9
+M. Viñales
+ES
+Aprilia Racing
+2503931
+16
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2504251
+16
+A. Espargaro
+ES
+Aprilia Racing
+2504696
+9
+M. Oliveira
+PT
+CryptoDATA RNF MotoGP Team
+2505695
+2
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2506388
+12
+P. Espargaro
+ES
+GASGAS Factory Racing Tech3
+2506487
+9
+M. Marquez
+ES
+Repsol Honda Team
+2506997
+15
+M. Pirro
+IT
+Aruba.it Racing
+2507013
+18
+M. Pirro
+IT
+Ducati Lenovo Team
+2507019
+20
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2507124
+9
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2507512
+2
+L. Marini
+IT
+Mooney VR46 Racing Team
+2508062
+2
+M. Viñales
+ES
+Aprilia Racing
+2508142
+9
+L. Marini
+IT
+Mooney VR46 Racing Team
+2508403
+9
+J. Zarco
+FR
+Prima Pramac Racing
+2508905
+9
+A. Marquez
+ES
+Gresini Racing MotoGP
+2509123
+9
+A. Espargaro
+ES
+Aprilia Racing
+2509299
+9
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2509319
+6
+A. Espargaro
+ES
+Aprilia Racing
+2510761
+2
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2510900
+6
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2511116
+2
+A. Marquez
+ES
+Gresini Racing MotoGP
+2511274
+2
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2511482
+16
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2511608
+2
+E. Bastianini
+IT
+Ducati Lenovo Team
+2511893
+20
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2512451
+16
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2512993
+16
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2513796
+16
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2514340
+15
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2514864
+2
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2515163
+15
+L. Savadori
+IT
+Aprilia Racing
+2515525
+16
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2515798
+6
+M. Oliveira
+PT
+CryptoDATA RNF MotoGP Team
+2516932
+9
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2517199
+9
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2518000
+2
+J. Martin
+ES
+Prima Pramac Racing
+2518473
+2
+M. Marquez
+ES
+Repsol Honda Team
+2518618
+2
+J. Zarco
+FR
+Prima Pramac Racing
+2521085
+2
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2521461
+2
+J. Mir
+ES
+Repsol Honda Team
+2522327
+6
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2523157
+9
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2524651
+2
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2525109
+2
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2525128
+2
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2525796
+9
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2525958
+16
+D. Petrucci
+IT
+Ducati Lenovo Team
+2527705
+12
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2527972
+9
+S. Bradl
+DE
+HRC Team
+2528751
+12
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2529280
+12
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2529442
+2
+P. Espargaro
+ES
+GASGAS Factory Racing Tech3
+2530848
+2
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2531394
+16
+L. Savadori
+IT
+CryptoDATA RNF MotoGP Team
+2534105
+9
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2537022
+12
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2538940
+18
+J. Folger
+DE
+GASGAS Factory Racing Tech3
+2542714
+11
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2543315
+16
+J. Folger
+DE
+GASGAS Factory Racing Tech3
+2547778
+11
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2548506
+12
+I. Lecuona
+ES
+LCR Honda CASTROL
+2550041
+11
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2551023
+11
+L. Marini
+IT
+Mooney VR46 Racing Team
+2553658
+11
+A. Marquez
+ES
+Gresini Racing MotoGP
+2554354
+11
+M. Viñales
+ES
+Aprilia Racing
+2555039
+15
+J. Folger
+DE
+GASGAS Factory Racing Tech3
+2555775
+11
+J. Martin
+ES
+Prima Pramac Racing
+2556232
+18
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2557661
+11
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2562824
+11
+A. Espargaro
+ES
+Aprilia Racing
+2563546
+11
+E. Bastianini
+IT
+Ducati Lenovo Team
+2564044
+11
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2564842
+11
+M. Marquez
+ES
+Repsol Honda Team
+2566342
+11
+J. Zarco
+FR
+Prima Pramac Racing
+2567574
+11
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2568680
+11
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2568790
+11
+P. Espargaro
+ES
+GASGAS Factory Racing Tech3
+2571388
+11
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2572313
+11
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2575631
+11
+L. Savadori
+IT
+Aprilia Racing
+2585707
+11
+I. Lecuona
+ES
+LCR Honda CASTROL
+2589554
+19
+M. Bezzecchi
+IT
+Mooney VR46 Racing Team
+2668518
+19
+J. Zarco
+FR
+Prima Pramac Racing
+2672603
+19
+A. Marquez
+ES
+Gresini Racing MotoGP
+2673199
+19
+F. Morbidelli
+IT
+Monster Energy Yamaha MotoGP
+2676099
+19
+J. Martin
+ES
+Prima Pramac Racing
+2678264
+19
+J. Miller
+AU
+Red Bull KTM Factory Racing
+2679080
+19
+F. Quartararo
+FR
+Monster Energy Yamaha MotoGP
+2679613
+19
+L. Marini
+IT
+Mooney VR46 Racing Team
+2682212
+19
+A. Rins
+ES
+LCR Honda CASTROL
+2682845
+19
+F. Di Giannantonio
+IT
+Gresini Racing MotoGP
+2687033
+19
+A. Fernandez
+ES
+GASGAS Factory Racing Tech3
+2687898
+19
+M. Viñales
+ES
+Aprilia Racing
+2694609
+19
+T. Nakagami
+JP
+LCR Honda IDEMITSU
+2696912
+19
+R. Fernandez
+ES
+CryptoDATA RNF MotoGP Team
+2698412
+19
+A. Espargaro
+ES
+Aprilia Racing
+2704701
+19
+F. Bagnaia
+IT
+Ducati Lenovo Team
+2716271
+19
+B. Binder
+ZA
+Red Bull KTM Factory Racing
+2716624
