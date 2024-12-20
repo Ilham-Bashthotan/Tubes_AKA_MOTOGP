@@ -8,7 +8,7 @@ import (
 	// "math/rand"
 )
 
-const NMAX int = 500
+const NMAX int = 400
 
 type rider struct {
 	name, nat, team string
@@ -132,14 +132,18 @@ func menuKompleksitasPencarianData(dataRider tabRider, nDataRider int) {
 		start = time.Now()
 		binarySearchIterative(dataRider, nDataRider, timeRAC)
 		elapsed = time.Since(start)
-		addComplexityIterative(&dataTimeIterative, &nDataTimeIterative, int(elapsed.Nanoseconds()))
+		addTimeComplexity(&dataTimeIterative, &nDataTimeIterative, int(elapsed.Nanoseconds()))
 		// Recursive
 		start = time.Now()
 		binarySearchRecursiveMaster(dataRider, nDataRider, timeRAC)
 		elapsed = time.Since(start)
-		addComplexityRecursive(&dataTimeRecursive, &nDataTimeRecursive, int(elapsed.Nanoseconds()))
+		addTimeComplexity(&dataTimeRecursive, &nDataTimeRecursive, int(elapsed.Nanoseconds()))
 	}
-	
+	fmt.Println("Kompleksitas Pencarian Data Iterative")
+	printComplexity(dataTimeIterative, nDataTimeIterative)
+	fmt.Println("Kompleksitas Pencarian Data Recursive")
+	printComplexity(dataTimeRecursive, nDataTimeRecursive)
+
 }
 
 /////////////////////////// func ///////////////////////////
@@ -169,7 +173,15 @@ func printAllRiderByIDEvent(dataRider tabRider, nDataRider, ID int) {
 	}
 }
 
-func binarySearchIterative(dataRider tabRider, nDataRider, time int) int {
+func printComplexity(dataTime tabTime, nDataTime int) {
+	var i int
+
+	for i = 0; i < nDataTime; i++ {
+		fmt.Println(dataTime[i])
+	}
+}
+
+func binarySearchIterative(dataRider tabRider, nDataRider, timeRAC int) int {
 // mengaembalikan index pencarian apabila x ada di dalam array yang berisi n
 // bilangan atau -1 apabila tidak ditemukan, tab terurut membesar atau ascending,
 // algotitma dengan Iterative
@@ -179,10 +191,11 @@ func binarySearchIterative(dataRider tabRider, nDataRider, time int) int {
 	left = 0
 	right = nDataRider - 1
 	for left <= right && found == -1 {
-		mid = (right - left) / 2
-		if dataRider[mid].timeRAC == time {
+		time.Sleep(10)
+		mid = (right + left) / 2
+		if dataRider[mid].timeRAC == timeRAC {
 			found = mid
-		} else if dataRider[mid].timeRAC < time {
+		} else if dataRider[mid].timeRAC < timeRAC {
 			left = mid + 1
 		} else {
 			right = mid - 1
@@ -191,20 +204,21 @@ func binarySearchIterative(dataRider tabRider, nDataRider, time int) int {
 	return found
 }
 
-func binarySearchRecursive(dataRider tabRider, time, mid, left, right, found int) int {
+func binarySearchRecursive(dataRider tabRider, timeRAC, mid, left, right, found int) int {
 // mengaembalikan index pencarian apabila x ada di dalam array yang berisi n
 // bilangan atau -1 apabila tidak ditemukan, tab terurut membesar atau ascending,
 // algotitma dengan Recursive
+	time.Sleep(10)
 	if left <= right && found == -1 {
-		mid = (right - left) / 2
-		if dataRider[mid].timeRAC == time {
-			return mid
-		} else if dataRider[mid].timeRAC < time {
+		mid = (right + left) / 2
+		if dataRider[mid].timeRAC == timeRAC {
+			found = mid
+		} else if dataRider[mid].timeRAC < timeRAC {
 			left = mid + 1
-			return binarySearchRecursive(dataRider, time, mid, left, right, found)
+			return binarySearchRecursive(dataRider, timeRAC, mid, left, right, found)
 		} else {
 			right = mid - 1
-			return binarySearchRecursive(dataRider, time, mid, left, right, found)
+			return binarySearchRecursive(dataRider, timeRAC, mid, left, right, found)
 		}
 	}
 	return found
@@ -213,13 +227,9 @@ func binarySearchRecursiveMaster(dataRider tabRider, nDataRider, time int) int {
 	return binarySearchRecursive(dataRider, time, 0, 0, nDataRider -1, -1)
 }
 
-func addComplexityIterative(dataTimeIterative *tabTime, nDataTimeIterative *int, elapsed int) {
-	dataTimeIterative[*nDataTimeIterative] = elapsed
-	*nDataTimeIterative++
-}
-func addComplexityRecursive(dataTimeRecursive *tabTime, nDataTimeRecursive *int, elapsed int) {
-	dataTimeRecursive[*nDataTimeRecursive] = elapsed
-	*nDataTimeRecursive++
+func addTimeComplexity(dataTime *tabTime, nDataTime *int, elapsed int) {
+	dataTime[*nDataTime] = elapsed
+	*nDataTime++
 }
 
 /////////////////////////// Hiasan ///////////////////////////
