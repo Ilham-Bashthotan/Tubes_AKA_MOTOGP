@@ -264,4 +264,4 @@ func clear_screen() {
 	c := exec.Command("cmd", "/c", "cls")
 	c.Stdout = os.Stdout
 	c.Run()
-}
+} 
