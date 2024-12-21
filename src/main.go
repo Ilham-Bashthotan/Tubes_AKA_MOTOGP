@@ -119,9 +119,9 @@ func menuKompleksitasPencarianData(dataRider tabRider, nDataRider int) {
 	var dataTimeIterative, dataTimeRecursive tabTime
 	var nDataTimeIterative, nDataTimeRecursive int
 	var i, timeRAC int
-	// var bestCase, worstCase, averageCase int
 	var start time.Time
 	var elapsed time.Duration
+	var bin string
 
 	fmt.Println("Kompleksitas Pencarian Data")
 	nDataTimeIterative = 0
@@ -141,6 +141,8 @@ func menuKompleksitasPencarianData(dataRider tabRider, nDataRider int) {
 	}
 	fmt.Println("Kompleksitas Pencarian Data Iterative")
 	printComplexity(dataTimeIterative, nDataTimeIterative)
+	fmt.Scan(&bin)
+	clear_screen()
 	fmt.Println("Kompleksitas Pencarian Data Recursive")
 	printComplexity(dataTimeRecursive, nDataTimeRecursive)
 
