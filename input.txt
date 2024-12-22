@@ -1,5 +1,4 @@
 1
-1
 Gran Premio Motul de la Comunitat Valenciana 2023
 Circuit Ricardo Tormo
 24 - 26 Nov
@@ -79,1656 +78,6008 @@ Termas de Río Hondo
 Grande Prémio Tissot de Portugal 2023
 Autódromo Internacional do Algarve
 24 - 26 Mar
-330
+-1
+Dummy
+Dummy
+Dummy
+2000
 7
 J. Martin
-ES
-Prima Pramac Racing
 1446314
 7
 F. Bagnaia
-IT
-Ducati Lenovo Team
 1447727
 7
 M. Marquez
-ES
-Repsol Honda Team
 1448327
 7
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 1449257
 7
 A. Espargaro
-ES
-Aprilia Racing
 1449495
 7
 J. Miller
-AU
-Red Bull KTM Factory Racing
 1453151
 7
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 1453901
 7
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 1454916
 7
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 1457543
 7
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 1458558
 7
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 1461028
 7
 J. Mir
-ES
-Repsol Honda Team
 1461238
 7
 C. Crutchlow
-GB
-Yamalube RS4GP Racing Team
 1462371
 7
 S. Bradl
-DE
-LCR Honda CASTROL
 1463567
 7
 P. Espargaro
-ES
-GASGAS Factory Racing Tech3
 1471235
 7
 M. Pirro
-IT
-Ducati Lenovo Team
 1480276
 7
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 1521248
 8
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2219157
 8
 J. Martin
-ES
-Prima Pramac Racing
 2227806
 8
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2228012
 8
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2231800
 8
 J. Mir
-ES
-Repsol Honda Team
 2232371
 8
 J. Zarco
-FR
-Prima Pramac Racing
 2233830
 8
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2236103
 8
 M. Viñales
-ES
-Aprilia Racing
 2236348
 8
 M. Marquez
-ES
-Repsol Honda Team
 2238275
 8
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2245661
 8
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2247678
 8
 M. Oliveira
-PT
-CryptoDATA RNF MotoGP Team
 2248245
 8
 P. Espargaro
-ES
-GASGAS Factory Racing Tech3
 2248885
 8
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2250481
 8
 S. Bradl
-DE
-LCR Honda CASTROL
 2254939
 8
 M. Pirro
-IT
-Ducati Lenovo Team
 2268399
 10
 A. Espargaro
-ES
-Aprilia Racing
 2336159
 10
 M. Viñales
-ES
-Aprilia Racing
 2336536
 10
 J. Martin
-ES
-Prima Pramac Racing
 2338990
 10
 J. Zarco
-FR
-Prima Pramac Racing
 2341026
 10
 M. Oliveira
-PT
-CryptoDATA RNF MotoGP Team
 2343688
 10
 A. Marquez
-ES
-Gresini Racing MotoGP
 2346749
 10
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2346980
 10
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2347039
 10
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2349048
 10
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2349439
 10
 L. Marini
-IT
-Mooney VR46 Racing Team
 2352650
 10
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2352720
 10
 M. Marquez
-ES
-Repsol Honda Team
 2357775
 10
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2359267
 10
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2362899
 10
 I. Lecuona
-ES
-LCR Honda CASTROL
 2365019
 17
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2369085
 17
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2369306
 10
 J. Mir
-ES
-Repsol Honda Team
 2370088
 17
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2370204
 17
 J. Martin
-ES
-Prima Pramac Racing
 2371027
 17
 A. Espargaro
-ES
-Aprilia Racing
 2373845
 17
 L. Marini
-IT
-Mooney VR46 Racing Team
 2375414
 17
 D. Pedrosa
-ES
-Red Bull KTM Factory Racing
 2375456
 4
 J. Martin
-ES
-Prima Pramac Racing
 2380045
 4
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2380159
 4
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2380298
 4
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2382050
 17
 A. Marquez
-ES
-Gresini Racing MotoGP
 2384037
 4
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2384595
 17
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2384777
 17
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2384931
 4
 M. Marquez
-ES
-Repsol Honda Team
 2385407
 17
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2386294
 4
 L. Marini
-IT
-Mooney VR46 Racing Team
 2386823
 17
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2386996
 4
 A. Espargaro
-ES
-Aprilia Racing
 2387348
 4
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2387614
 17
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2388095
 4
 J. Zarco
-FR
-Prima Pramac Racing
 2389422
 4
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2391213
 4
 J. Mir
-ES
-Repsol Honda Team
 2392035
 4
 E. Bastianini
-IT
-Ducati Lenovo Team
 2392368
 4
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2394582
 4
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2395138
 17
 S. Bradl
-DE
-HRC Team
 2396379
 4
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2397685
 3
 E. Bastianini
-IT
-Ducati Lenovo Team
 2399137
 3
 A. Marquez
-ES
-Gresini Racing MotoGP
 2400672
 4
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2401352
 4
 P. Espargaro
-ES
-GASGAS Factory Racing Tech3
 2401480
 3
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2402699
 17
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2405456
 17
 I. Lecuona
-ES
-Repsol Honda Team
 2405838
 3
 J. Martin
-ES
-Prima Pramac Racing
 2409663
 3
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2414137
 3
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2416083
 17
 J. Folger
-DE
-GASGAS Factory Racing Tech3
 2416231
 3
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2417690
 3
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2418341
 3
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2418536
 3
 L. Marini
-IT
-Mooney VR46 Racing Team
 2418877
 3
 M. Viñales
-ES
-Aprilia Racing
 2420326
 3
 J. Zarco
-FR
-Prima Pramac Racing
 2422735
 3
 M. Marquez
-ES
-Repsol Honda Team
 2426216
 3
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2428077
 3
 P. Espargaro
-ES
-GASGAS Factory Racing Tech3
 2428986
 13
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2437640
 13
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2438863
 13
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2439168
 5
 J. Zarco
-FR
-Prima Pramac Racing
 2439446
 13
 A. Espargaro
-ES
-Aprilia Racing
 2439565
 13
 J. Martin
-ES
-Prima Pramac Racing
 2439574
 5
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2439647
 5
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2439923
 5
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2440262
 12
 A. Espargaro
-ES
-Aprilia Racing
 2440367
 5
 J. Martin
-ES
-Prima Pramac Racing
 2440454
 12
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2440582
 12
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2441047
 12
 M. Oliveira
-PT
-CryptoDATA RNF MotoGP Team
 2441117
 12
 M. Viñales
-ES
-Aprilia Racing
 2442468
 12
 J. Martin
-ES
-Prima Pramac Racing
 2448270
 5
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2448273
 5
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2448729
 5
 A. Espargaro
-ES
-Aprilia Racing
 2448833
 5
 A. Marquez
-ES
-Gresini Racing MotoGP
 2449142
 12
 L. Marini
-IT
-Mooney VR46 Racing Team
 2449466
 12
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2449665
 13
 A. Marquez
-ES
-Gresini Racing MotoGP
 2450077
 3
 I. Lecuona
-ES
-LCR Honda CASTROL
 2450097
 12
 J. Zarco
-FR
-Prima Pramac Racing
 2450325
 13
 L. Marini
-IT
-Mooney VR46 Racing Team
 2451814
 5
 E. Bastianini
-IT
-Ducati Lenovo Team
 2451969
 13
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2452256
 14
 J. Martin
-ES
-Prima Pramac Racing
 2452449
 14
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2452513
 3
 A. Bautista
-ES
-Aruba.it Racing
 2452701
 5
 M. Viñales
-ES
-Aprilia Racing
 2453438
 5
 L. Marini
-IT
-Mooney VR46 Racing Team
 2456524
 1
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2458535
 5
 M. Oliveira
-PT
-CryptoDATA RNF MotoGP Team
 2458889
 1
 J. Zarco
-FR
-Prima Pramac Racing
 2458895
 14
 J. Zarco
-FR
-Prima Pramac Racing
 2459462
 12
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2460314
 5
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2460395
 5
 M. Marquez
-ES
-Repsol Honda Team
 2460564
 12
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2460663
 14
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2460879
 1
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2460882
 1
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2461711
 1
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2463171
 1
 A. Marquez
-ES
-Gresini Racing MotoGP
 2463243
 1
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2463271
 14
 L. Marini
-IT
-Mooney VR46 Racing Team
 2464128
 14
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2464353
 14
 A. Marquez
-ES
-Gresini Racing MotoGP
 2466489
 1
 A. Espargaro
-ES
-Aprilia Racing
 2466549
 13
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2466975
 14
 E. Bastianini
-IT
-Ducati Lenovo Team
 2467308
 1
 L. Marini
-IT
-Mooney VR46 Racing Team
 2468021
 1
 M. Viñales
-ES
-Aprilia Racing
 2469091
 14
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2469510
 1
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2470536
 13
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2471376
 5
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2471984
 14
 M. Oliveira
-PT
-CryptoDATA RNF MotoGP Team
 2472097
 14
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2472446
 13
 L. Savadori
-IT
-Aprilia Racing
 2472724
 18
 A. Rins
-ES
-LCR Honda CASTROL
 2474649
 14
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2475398
 15
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2476863
 5
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2477109
 5
 P. Espargaro
-ES
-GASGAS Factory Racing Tech3
 2477114
 5
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2477204
 13
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2477262
 14
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2477566
 14
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2477776
 15
 J. Martin
-ES
-Prima Pramac Racing
 2477930
 14
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2477952
 18
 L. Marini
-IT
-Mooney VR46 Racing Team
 2478147
 15
 J. Zarco
-FR
-Prima Pramac Racing
 2478840
 18
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2479585
 13
 S. Bradl
-DE
-LCR Honda CASTROL
 2480144
 1
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2480230
 6
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2480293
 6
 M. Viñales
-ES
-Aprilia Racing
 2480599
 6
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2480726
 14
 A. Espargaro
-ES
-Aprilia Racing
 2480992
 15
 L. Marini
-IT
-Mooney VR46 Racing Team
 2481488
 18
 M. Viñales
-ES
-Aprilia Racing
 2482967
 13
 J. Folger
-DE
-GASGAS Factory Racing Tech3
 2483249
 18
 M. Oliveira
-PT
-CryptoDATA RNF MotoGP Team
 2484638
 20
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2485401
 15
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2485788
 20
 M. Viñales
-ES
-Aprilia Racing
 2486088
 18
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2486698
 18
 J. Zarco
-FR
-Prima Pramac Racing
 2486891
 6
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2487255
 15
 A. Espargaro
-ES
-Aprilia Racing
 2487771
 15
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2487862
 20
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2488127
 15
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2489517
 6
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2491404
 6
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2491521
 6
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2492767
 6
 E. Bastianini
-IT
-Ducati Lenovo Team
 2492977
 9
 J. Martin
-ES
-Prima Pramac Racing
 2493421
 20
 J. Zarco
-FR
-Prima Pramac Racing
 2493461
 20
 A. Marquez
-ES
-Gresini Racing MotoGP
 2493526
 20
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2493648
 20
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2493782
 20
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2493944
 15
 E. Bastianini
-IT
-Ducati Lenovo Team
 2493965
 15
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2494473
 20
 A. Espargaro
-ES
-Aprilia Racing
 2494695
 15
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2494724
 9
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2494771
 18
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2495048
 15
 M. Viñales
-ES
-Aprilia Racing
 2495973
 20
 A. Rins
-ES
-LCR Honda CASTROL
 2496992
 9
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2497233
 9
 D. Pedrosa
-ES
-Red Bull KTM Factory Racing
 2497902
 16
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2497970
 15
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2498810
 3
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2501299
 14
 J. Folger
-DE
-GASGAS Factory Racing Tech3
 2501411
 1
 L. Savadori
-IT
-CryptoDATA RNF MotoGP Team
 2501832
 16
 J. Martin
-ES
-Prima Pramac Racing
 2502226
 20
 J. Mir
-ES
-Repsol Honda Team
 2502393
 18
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2502630
 16
 J. Zarco
-FR
-Prima Pramac Racing
 2502765
 15
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2502769
 6
 A. Rins
-ES
-LCR Honda CASTROL
 2502833
 20
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2502849
 18
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2502866
 15
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2503363
 2
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2503654
 9
 M. Viñales
-ES
-Aprilia Racing
 2503931
 16
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2504251
 16
 A. Espargaro
-ES
-Aprilia Racing
 2504696
 9
 M. Oliveira
-PT
-CryptoDATA RNF MotoGP Team
 2505695
 2
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2506388
 12
 P. Espargaro
-ES
-GASGAS Factory Racing Tech3
 2506487
 9
 M. Marquez
-ES
-Repsol Honda Team
 2506997
 15
 M. Pirro
-IT
-Aruba.it Racing
 2507013
 18
 M. Pirro
-IT
-Ducati Lenovo Team
 2507019
 20
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2507124
 9
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2507512
 2
 L. Marini
-IT
-Mooney VR46 Racing Team
 2508062
 2
 M. Viñales
-ES
-Aprilia Racing
 2508142
 9
 L. Marini
-IT
-Mooney VR46 Racing Team
 2508403
 9
 J. Zarco
-FR
-Prima Pramac Racing
 2508905
 9
 A. Marquez
-ES
-Gresini Racing MotoGP
 2509123
 9
 A. Espargaro
-ES
-Aprilia Racing
 2509299
 9
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2509319
 6
 A. Espargaro
-ES
-Aprilia Racing
 2510761
 2
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2510900
 6
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2511116
 2
 A. Marquez
-ES
-Gresini Racing MotoGP
 2511274
 2
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2511482
 16
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2511608
 2
 E. Bastianini
-IT
-Ducati Lenovo Team
 2511893
 20
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2512451
 16
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2512993
 16
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2513796
 16
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2514340
 15
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2514864
 2
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2515163
 15
 L. Savadori
-IT
-Aprilia Racing
 2515525
 16
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2515798
 6
 M. Oliveira
-PT
-CryptoDATA RNF MotoGP Team
 2516932
 9
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2517199
 9
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2518000
 2
 J. Martin
-ES
-Prima Pramac Racing
 2518473
 2
 M. Marquez
-ES
-Repsol Honda Team
 2518618
 2
 J. Zarco
-FR
-Prima Pramac Racing
 2521085
 2
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2521461
 2
 J. Mir
-ES
-Repsol Honda Team
 2522327
 6
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2523157
 9
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2524651
 2
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2525109
 2
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2525128
 2
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2525796
 9
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2525958
 16
 D. Petrucci
-IT
-Ducati Lenovo Team
 2527705
 12
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2527972
 9
 S. Bradl
-DE
-HRC Team
 2528751
 12
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2529280
 12
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2529442
 2
 P. Espargaro
-ES
-GASGAS Factory Racing Tech3
 2530848
 2
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2531394
 16
 L. Savadori
-IT
-CryptoDATA RNF MotoGP Team
 2534105
 9
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2537022
 12
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2538940
 18
 J. Folger
-DE
-GASGAS Factory Racing Tech3
 2542714
 11
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2543315
 16
 J. Folger
-DE
-GASGAS Factory Racing Tech3
 2547778
 11
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2548506
 12
 I. Lecuona
-ES
-LCR Honda CASTROL
 2550041
 11
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2551023
 11
 L. Marini
-IT
-Mooney VR46 Racing Team
 2553658
 11
 A. Marquez
-ES
-Gresini Racing MotoGP
 2554354
 11
 M. Viñales
-ES
-Aprilia Racing
 2555039
 15
 J. Folger
-DE
-GASGAS Factory Racing Tech3
 2555775
 11
 J. Martin
-ES
-Prima Pramac Racing
 2556232
 18
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2557661
 11
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2562824
 11
 A. Espargaro
-ES
-Aprilia Racing
 2563546
 11
 E. Bastianini
-IT
-Ducati Lenovo Team
 2564044
 11
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2564842
 11
 M. Marquez
-ES
-Repsol Honda Team
 2566342
 11
 J. Zarco
-FR
-Prima Pramac Racing
 2567574
 11
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2568680
 11
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2568790
 11
 P. Espargaro
-ES
-GASGAS Factory Racing Tech3
 2571388
 11
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2572313
 11
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2575631
 11
 L. Savadori
-IT
-Aprilia Racing
 2585707
 11
 I. Lecuona
-ES
-LCR Honda CASTROL
 2589554
 19
 M. Bezzecchi
-IT
-Mooney VR46 Racing Team
 2668518
 19
 J. Zarco
-FR
-Prima Pramac Racing
 2672603
 19
 A. Marquez
-ES
-Gresini Racing MotoGP
 2673199
 19
 F. Morbidelli
-IT
-Monster Energy Yamaha MotoGP
 2676099
 19
 J. Martin
-ES
-Prima Pramac Racing
 2678264
 19
 J. Miller
-AU
-Red Bull KTM Factory Racing
 2679080
 19
 F. Quartararo
-FR
-Monster Energy Yamaha MotoGP
 2679613
 19
 L. Marini
-IT
-Mooney VR46 Racing Team
 2682212
 19
 A. Rins
-ES
-LCR Honda CASTROL
 2682845
 19
 F. Di Giannantonio
-IT
-Gresini Racing MotoGP
 2687033
 19
 A. Fernandez
-ES
-GASGAS Factory Racing Tech3
 2687898
 19
 M. Viñales
-ES
-Aprilia Racing
 2694609
 19
 T. Nakagami
-JP
-LCR Honda IDEMITSU
 2696912
 19
 R. Fernandez
-ES
-CryptoDATA RNF MotoGP Team
 2698412
 19
 A. Espargaro
-ES
-Aprilia Racing
 2704701
 19
 F. Bagnaia
-IT
-Ducati Lenovo Team
 2716271
 19
 B. Binder
-ZA
-Red Bull KTM Factory Racing
 2716624
-
-3
+-1
+Dummy
+2716625
+-1
+Dummy
+2716626
+-1
+Dummy
+2716627
+-1
+Dummy
+2716628
+-1
+Dummy
+2716629
+-1
+Dummy
+2716630
+-1
+Dummy
+2716631
+-1
+Dummy
+2716632
+-1
+Dummy
+2716633
+-1
+Dummy
+2716634
+-1
+Dummy
+2716635
+-1
+Dummy
+2716636
+-1
+Dummy
+2716637
+-1
+Dummy
+2716638
+-1
+Dummy
+2716639
+-1
+Dummy
+2716640
+-1
+Dummy
+2716641
+-1
+Dummy
+2716642
+-1
+Dummy
+2716643
+-1
+Dummy
+2716644
+-1
+Dummy
+2716645
+-1
+Dummy
+2716646
+-1
+Dummy
+2716647
+-1
+Dummy
+2716648
+-1
+Dummy
+2716649
+-1
+Dummy
+2716650
+-1
+Dummy
+2716651
+-1
+Dummy
+2716652
+-1
+Dummy
+2716653
+-1
+Dummy
+2716654
+-1
+Dummy
+2716655
+-1
+Dummy
+2716656
+-1
+Dummy
+2716657
+-1
+Dummy
+2716658
+-1
+Dummy
+2716659
+-1
+Dummy
+2716660
+-1
+Dummy
+2716661
+-1
+Dummy
+2716662
+-1
+Dummy
+2716663
+-1
+Dummy
+2716664
+-1
+Dummy
+2716665
+-1
+Dummy
+2716666
+-1
+Dummy
+2716667
+-1
+Dummy
+2716668
+-1
+Dummy
+2716669
+-1
+Dummy
+2716670
+-1
+Dummy
+2716671
+-1
+Dummy
+2716672
+-1
+Dummy
+2716673
+-1
+Dummy
+2716674
+-1
+Dummy
+2716675
+-1
+Dummy
+2716676
+-1
+Dummy
+2716677
+-1
+Dummy
+2716678
+-1
+Dummy
+2716679
+-1
+Dummy
+2716680
+-1
+Dummy
+2716681
+-1
+Dummy
+2716682
+-1
+Dummy
+2716683
+-1
+Dummy
+2716684
+-1
+Dummy
+2716685
+-1
+Dummy
+2716686
+-1
+Dummy
+2716687
+-1
+Dummy
+2716688
+-1
+Dummy
+2716689
+-1
+Dummy
+2716690
+-1
+Dummy
+2716691
+-1
+Dummy
+2716692
+-1
+Dummy
+2716693
+-1
+Dummy
+2716694
+-1
+Dummy
+2716695
+-1
+Dummy
+2716696
+-1
+Dummy
+2716697
+-1
+Dummy
+2716698
+-1
+Dummy
+2716699
+-1
+Dummy
+2716700
+-1
+Dummy
+2716701
+-1
+Dummy
+2716702
+-1
+Dummy
+2716703
+-1
+Dummy
+2716704
+-1
+Dummy
+2716705
+-1
+Dummy
+2716706
+-1
+Dummy
+2716707
+-1
+Dummy
+2716708
+-1
+Dummy
+2716709
+-1
+Dummy
+2716710
+-1
+Dummy
+2716711
+-1
+Dummy
+2716712
+-1
+Dummy
+2716713
+-1
+Dummy
+2716714
+-1
+Dummy
+2716715
+-1
+Dummy
+2716716
+-1
+Dummy
+2716717
+-1
+Dummy
+2716718
+-1
+Dummy
+2716719
+-1
+Dummy
+2716720
+-1
+Dummy
+2716721
+-1
+Dummy
+2716722
+-1
+Dummy
+2716723
+-1
+Dummy
+2716724
+-1
+Dummy
+2716725
+-1
+Dummy
+2716726
+-1
+Dummy
+2716727
+-1
+Dummy
+2716728
+-1
+Dummy
+2716729
+-1
+Dummy
+2716730
+-1
+Dummy
+2716731
+-1
+Dummy
+2716732
+-1
+Dummy
+2716733
+-1
+Dummy
+2716734
+-1
+Dummy
+2716735
+-1
+Dummy
+2716736
+-1
+Dummy
+2716737
+-1
+Dummy
+2716738
+-1
+Dummy
+2716739
+-1
+Dummy
+2716740
+-1
+Dummy
+2716741
+-1
+Dummy
+2716742
+-1
+Dummy
+2716743
+-1
+Dummy
+2716744
+-1
+Dummy
+2716745
+-1
+Dummy
+2716746
+-1
+Dummy
+2716747
+-1
+Dummy
+2716748
+-1
+Dummy
+2716749
+-1
+Dummy
+2716750
+-1
+Dummy
+2716751
+-1
+Dummy
+2716752
+-1
+Dummy
+2716753
+-1
+Dummy
+2716754
+-1
+Dummy
+2716755
+-1
+Dummy
+2716756
+-1
+Dummy
+2716757
+-1
+Dummy
+2716758
+-1
+Dummy
+2716759
+-1
+Dummy
+2716760
+-1
+Dummy
+2716761
+-1
+Dummy
+2716762
+-1
+Dummy
+2716763
+-1
+Dummy
+2716764
+-1
+Dummy
+2716765
+-1
+Dummy
+2716766
+-1
+Dummy
+2716767
+-1
+Dummy
+2716768
+-1
+Dummy
+2716769
+-1
+Dummy
+2716770
+-1
+Dummy
+2716771
+-1
+Dummy
+2716772
+-1
+Dummy
+2716773
+-1
+Dummy
+2716774
+-1
+Dummy
+2716775
+-1
+Dummy
+2716776
+-1
+Dummy
+2716777
+-1
+Dummy
+2716778
+-1
+Dummy
+2716779
+-1
+Dummy
+2716780
+-1
+Dummy
+2716781
+-1
+Dummy
+2716782
+-1
+Dummy
+2716783
+-1
+Dummy
+2716784
+-1
+Dummy
+2716785
+-1
+Dummy
+2716786
+-1
+Dummy
+2716787
+-1
+Dummy
+2716788
+-1
+Dummy
+2716789
+-1
+Dummy
+2716790
+-1
+Dummy
+2716791
+-1
+Dummy
+2716792
+-1
+Dummy
+2716793
+-1
+Dummy
+2716794
+-1
+Dummy
+2716795
+-1
+Dummy
+2716796
+-1
+Dummy
+2716797
+-1
+Dummy
+2716798
+-1
+Dummy
+2716799
+-1
+Dummy
+2716800
+-1
+Dummy
+2716801
+-1
+Dummy
+2716802
+-1
+Dummy
+2716803
+-1
+Dummy
+2716804
+-1
+Dummy
+2716805
+-1
+Dummy
+2716806
+-1
+Dummy
+2716807
+-1
+Dummy
+2716808
+-1
+Dummy
+2716809
+-1
+Dummy
+2716810
+-1
+Dummy
+2716811
+-1
+Dummy
+2716812
+-1
+Dummy
+2716813
+-1
+Dummy
+2716814
+-1
+Dummy
+2716815
+-1
+Dummy
+2716816
+-1
+Dummy
+2716817
+-1
+Dummy
+2716818
+-1
+Dummy
+2716819
+-1
+Dummy
+2716820
+-1
+Dummy
+2716821
+-1
+Dummy
+2716822
+-1
+Dummy
+2716823
+-1
+Dummy
+2716824
+-1
+Dummy
+2716825
+-1
+Dummy
+2716826
+-1
+Dummy
+2716827
+-1
+Dummy
+2716828
+-1
+Dummy
+2716829
+-1
+Dummy
+2716830
+-1
+Dummy
+2716831
+-1
+Dummy
+2716832
+-1
+Dummy
+2716833
+-1
+Dummy
+2716834
+-1
+Dummy
+2716835
+-1
+Dummy
+2716836
+-1
+Dummy
+2716837
+-1
+Dummy
+2716838
+-1
+Dummy
+2716839
+-1
+Dummy
+2716840
+-1
+Dummy
+2716841
+-1
+Dummy
+2716842
+-1
+Dummy
+2716843
+-1
+Dummy
+2716844
+-1
+Dummy
+2716845
+-1
+Dummy
+2716846
+-1
+Dummy
+2716847
+-1
+Dummy
+2716848
+-1
+Dummy
+2716849
+-1
+Dummy
+2716850
+-1
+Dummy
+2716851
+-1
+Dummy
+2716852
+-1
+Dummy
+2716853
+-1
+Dummy
+2716854
+-1
+Dummy
+2716855
+-1
+Dummy
+2716856
+-1
+Dummy
+2716857
+-1
+Dummy
+2716858
+-1
+Dummy
+2716859
+-1
+Dummy
+2716860
+-1
+Dummy
+2716861
+-1
+Dummy
+2716862
+-1
+Dummy
+2716863
+-1
+Dummy
+2716864
+-1
+Dummy
+2716865
+-1
+Dummy
+2716866
+-1
+Dummy
+2716867
+-1
+Dummy
+2716868
+-1
+Dummy
+2716869
+-1
+Dummy
+2716870
+-1
+Dummy
+2716871
+-1
+Dummy
+2716872
+-1
+Dummy
+2716873
+-1
+Dummy
+2716874
+-1
+Dummy
+2716875
+-1
+Dummy
+2716876
+-1
+Dummy
+2716877
+-1
+Dummy
+2716878
+-1
+Dummy
+2716879
+-1
+Dummy
+2716880
+-1
+Dummy
+2716881
+-1
+Dummy
+2716882
+-1
+Dummy
+2716883
+-1
+Dummy
+2716884
+-1
+Dummy
+2716885
+-1
+Dummy
+2716886
+-1
+Dummy
+2716887
+-1
+Dummy
+2716888
+-1
+Dummy
+2716889
+-1
+Dummy
+2716890
+-1
+Dummy
+2716891
+-1
+Dummy
+2716892
+-1
+Dummy
+2716893
+-1
+Dummy
+2716894
+-1
+Dummy
+2716895
+-1
+Dummy
+2716896
+-1
+Dummy
+2716897
+-1
+Dummy
+2716898
+-1
+Dummy
+2716899
+-1
+Dummy
+2716900
+-1
+Dummy
+2716901
+-1
+Dummy
+2716902
+-1
+Dummy
+2716903
+-1
+Dummy
+2716904
+-1
+Dummy
+2716905
+-1
+Dummy
+2716906
+-1
+Dummy
+2716907
+-1
+Dummy
+2716908
+-1
+Dummy
+2716909
+-1
+Dummy
+2716910
+-1
+Dummy
+2716911
+-1
+Dummy
+2716912
+-1
+Dummy
+2716913
+-1
+Dummy
+2716914
+-1
+Dummy
+2716915
+-1
+Dummy
+2716916
+-1
+Dummy
+2716917
+-1
+Dummy
+2716918
+-1
+Dummy
+2716919
+-1
+Dummy
+2716920
+-1
+Dummy
+2716921
+-1
+Dummy
+2716922
+-1
+Dummy
+2716923
+-1
+Dummy
+2716924
+-1
+Dummy
+2716925
+-1
+Dummy
+2716926
+-1
+Dummy
+2716927
+-1
+Dummy
+2716928
+-1
+Dummy
+2716929
+-1
+Dummy
+2716930
+-1
+Dummy
+2716931
+-1
+Dummy
+2716932
+-1
+Dummy
+2716933
+-1
+Dummy
+2716934
+-1
+Dummy
+2716935
+-1
+Dummy
+2716936
+-1
+Dummy
+2716937
+-1
+Dummy
+2716938
+-1
+Dummy
+2716939
+-1
+Dummy
+2716940
+-1
+Dummy
+2716941
+-1
+Dummy
+2716942
+-1
+Dummy
+2716943
+-1
+Dummy
+2716944
+-1
+Dummy
+2716945
+-1
+Dummy
+2716946
+-1
+Dummy
+2716947
+-1
+Dummy
+2716948
+-1
+Dummy
+2716949
+-1
+Dummy
+2716950
+-1
+Dummy
+2716951
+-1
+Dummy
+2716952
+-1
+Dummy
+2716953
+-1
+Dummy
+2716954
+-1
+Dummy
+2716955
+-1
+Dummy
+2716956
+-1
+Dummy
+2716957
+-1
+Dummy
+2716958
+-1
+Dummy
+2716959
+-1
+Dummy
+2716960
+-1
+Dummy
+2716961
+-1
+Dummy
+2716962
+-1
+Dummy
+2716963
+-1
+Dummy
+2716964
+-1
+Dummy
+2716965
+-1
+Dummy
+2716966
+-1
+Dummy
+2716967
+-1
+Dummy
+2716968
+-1
+Dummy
+2716969
+-1
+Dummy
+2716970
+-1
+Dummy
+2716971
+-1
+Dummy
+2716972
+-1
+Dummy
+2716973
+-1
+Dummy
+2716974
+-1
+Dummy
+2716975
+-1
+Dummy
+2716976
+-1
+Dummy
+2716977
+-1
+Dummy
+2716978
+-1
+Dummy
+2716979
+-1
+Dummy
+2716980
+-1
+Dummy
+2716981
+-1
+Dummy
+2716982
+-1
+Dummy
+2716983
+-1
+Dummy
+2716984
+-1
+Dummy
+2716985
+-1
+Dummy
+2716986
+-1
+Dummy
+2716987
+-1
+Dummy
+2716988
+-1
+Dummy
+2716989
+-1
+Dummy
+2716990
+-1
+Dummy
+2716991
+-1
+Dummy
+2716992
+-1
+Dummy
+2716993
+-1
+Dummy
+2716994
+-1
+Dummy
+2716995
+-1
+Dummy
+2716996
+-1
+Dummy
+2716997
+-1
+Dummy
+2716998
+-1
+Dummy
+2716999
+-1
+Dummy
+2717000
+-1
+Dummy
+2717001
+-1
+Dummy
+2717002
+-1
+Dummy
+2717003
+-1
+Dummy
+2717004
+-1
+Dummy
+2717005
+-1
+Dummy
+2717006
+-1
+Dummy
+2717007
+-1
+Dummy
+2717008
+-1
+Dummy
+2717009
+-1
+Dummy
+2717010
+-1
+Dummy
+2717011
+-1
+Dummy
+2717012
+-1
+Dummy
+2717013
+-1
+Dummy
+2717014
+-1
+Dummy
+2717015
+-1
+Dummy
+2717016
+-1
+Dummy
+2717017
+-1
+Dummy
+2717018
+-1
+Dummy
+2717019
+-1
+Dummy
+2717020
+-1
+Dummy
+2717021
+-1
+Dummy
+2717022
+-1
+Dummy
+2717023
+-1
+Dummy
+2717024
+-1
+Dummy
+2717025
+-1
+Dummy
+2717026
+-1
+Dummy
+2717027
+-1
+Dummy
+2717028
+-1
+Dummy
+2717029
+-1
+Dummy
+2717030
+-1
+Dummy
+2717031
+-1
+Dummy
+2717032
+-1
+Dummy
+2717033
+-1
+Dummy
+2717034
+-1
+Dummy
+2717035
+-1
+Dummy
+2717036
+-1
+Dummy
+2717037
+-1
+Dummy
+2717038
+-1
+Dummy
+2717039
+-1
+Dummy
+2717040
+-1
+Dummy
+2717041
+-1
+Dummy
+2717042
+-1
+Dummy
+2717043
+-1
+Dummy
+2717044
+-1
+Dummy
+2717045
+-1
+Dummy
+2717046
+-1
+Dummy
+2717047
+-1
+Dummy
+2717048
+-1
+Dummy
+2717049
+-1
+Dummy
+2717050
+-1
+Dummy
+2717051
+-1
+Dummy
+2717052
+-1
+Dummy
+2717053
+-1
+Dummy
+2717054
+-1
+Dummy
+2717055
+-1
+Dummy
+2717056
+-1
+Dummy
+2717057
+-1
+Dummy
+2717058
+-1
+Dummy
+2717059
+-1
+Dummy
+2717060
+-1
+Dummy
+2717061
+-1
+Dummy
+2717062
+-1
+Dummy
+2717063
+-1
+Dummy
+2717064
+-1
+Dummy
+2717065
+-1
+Dummy
+2717066
+-1
+Dummy
+2717067
+-1
+Dummy
+2717068
+-1
+Dummy
+2717069
+-1
+Dummy
+2717070
+-1
+Dummy
+2717071
+-1
+Dummy
+2717072
+-1
+Dummy
+2717073
+-1
+Dummy
+2717074
+-1
+Dummy
+2717075
+-1
+Dummy
+2717076
+-1
+Dummy
+2717077
+-1
+Dummy
+2717078
+-1
+Dummy
+2717079
+-1
+Dummy
+2717080
+-1
+Dummy
+2717081
+-1
+Dummy
+2717082
+-1
+Dummy
+2717083
+-1
+Dummy
+2717084
+-1
+Dummy
+2717085
+-1
+Dummy
+2717086
+-1
+Dummy
+2717087
+-1
+Dummy
+2717088
+-1
+Dummy
+2717089
+-1
+Dummy
+2717090
+-1
+Dummy
+2717091
+-1
+Dummy
+2717092
+-1
+Dummy
+2717093
+-1
+Dummy
+2717094
+-1
+Dummy
+2717095
+-1
+Dummy
+2717096
+-1
+Dummy
+2717097
+-1
+Dummy
+2717098
+-1
+Dummy
+2717099
+-1
+Dummy
+2717100
+-1
+Dummy
+2717101
+-1
+Dummy
+2717102
+-1
+Dummy
+2717103
+-1
+Dummy
+2717104
+-1
+Dummy
+2717105
+-1
+Dummy
+2717106
+-1
+Dummy
+2717107
+-1
+Dummy
+2717108
+-1
+Dummy
+2717109
+-1
+Dummy
+2717110
+-1
+Dummy
+2717111
+-1
+Dummy
+2717112
+-1
+Dummy
+2717113
+-1
+Dummy
+2717114
+-1
+Dummy
+2717115
+-1
+Dummy
+2717116
+-1
+Dummy
+2717117
+-1
+Dummy
+2717118
+-1
+Dummy
+2717119
+-1
+Dummy
+2717120
+-1
+Dummy
+2717121
+-1
+Dummy
+2717122
+-1
+Dummy
+2717123
+-1
+Dummy
+2717124
+-1
+Dummy
+2717125
+-1
+Dummy
+2717126
+-1
+Dummy
+2717127
+-1
+Dummy
+2717128
+-1
+Dummy
+2717129
+-1
+Dummy
+2717130
+-1
+Dummy
+2717131
+-1
+Dummy
+2717132
+-1
+Dummy
+2717133
+-1
+Dummy
+2717134
+-1
+Dummy
+2717135
+-1
+Dummy
+2717136
+-1
+Dummy
+2717137
+-1
+Dummy
+2717138
+-1
+Dummy
+2717139
+-1
+Dummy
+2717140
+-1
+Dummy
+2717141
+-1
+Dummy
+2717142
+-1
+Dummy
+2717143
+-1
+Dummy
+2717144
+-1
+Dummy
+2717145
+-1
+Dummy
+2717146
+-1
+Dummy
+2717147
+-1
+Dummy
+2717148
+-1
+Dummy
+2717149
+-1
+Dummy
+2717150
+-1
+Dummy
+2717151
+-1
+Dummy
+2717152
+-1
+Dummy
+2717153
+-1
+Dummy
+2717154
+-1
+Dummy
+2717155
+-1
+Dummy
+2717156
+-1
+Dummy
+2717157
+-1
+Dummy
+2717158
+-1
+Dummy
+2717159
+-1
+Dummy
+2717160
+-1
+Dummy
+2717161
+-1
+Dummy
+2717162
+-1
+Dummy
+2717163
+-1
+Dummy
+2717164
+-1
+Dummy
+2717165
+-1
+Dummy
+2717166
+-1
+Dummy
+2717167
+-1
+Dummy
+2717168
+-1
+Dummy
+2717169
+-1
+Dummy
+2717170
+-1
+Dummy
+2717171
+-1
+Dummy
+2717172
+-1
+Dummy
+2717173
+-1
+Dummy
+2717174
+-1
+Dummy
+2717175
+-1
+Dummy
+2717176
+-1
+Dummy
+2717177
+-1
+Dummy
+2717178
+-1
+Dummy
+2717179
+-1
+Dummy
+2717180
+-1
+Dummy
+2717181
+-1
+Dummy
+2717182
+-1
+Dummy
+2717183
+-1
+Dummy
+2717184
+-1
+Dummy
+2717185
+-1
+Dummy
+2717186
+-1
+Dummy
+2717187
+-1
+Dummy
+2717188
+-1
+Dummy
+2717189
+-1
+Dummy
+2717190
+-1
+Dummy
+2717191
+-1
+Dummy
+2717192
+-1
+Dummy
+2717193
+-1
+Dummy
+2717194
+-1
+Dummy
+2717195
+-1
+Dummy
+2717196
+-1
+Dummy
+2717197
+-1
+Dummy
+2717198
+-1
+Dummy
+2717199
+-1
+Dummy
+2717200
+-1
+Dummy
+2717201
+-1
+Dummy
+2717202
+-1
+Dummy
+2717203
+-1
+Dummy
+2717204
+-1
+Dummy
+2717205
+-1
+Dummy
+2717206
+-1
+Dummy
+2717207
+-1
+Dummy
+2717208
+-1
+Dummy
+2717209
+-1
+Dummy
+2717210
+-1
+Dummy
+2717211
+-1
+Dummy
+2717212
+-1
+Dummy
+2717213
+-1
+Dummy
+2717214
+-1
+Dummy
+2717215
+-1
+Dummy
+2717216
+-1
+Dummy
+2717217
+-1
+Dummy
+2717218
+-1
+Dummy
+2717219
+-1
+Dummy
+2717220
+-1
+Dummy
+2717221
+-1
+Dummy
+2717222
+-1
+Dummy
+2717223
+-1
+Dummy
+2717224
+-1
+Dummy
+2717225
+-1
+Dummy
+2717226
+-1
+Dummy
+2717227
+-1
+Dummy
+2717228
+-1
+Dummy
+2717229
+-1
+Dummy
+2717230
+-1
+Dummy
+2717231
+-1
+Dummy
+2717232
+-1
+Dummy
+2717233
+-1
+Dummy
+2717234
+-1
+Dummy
+2717235
+-1
+Dummy
+2717236
+-1
+Dummy
+2717237
+-1
+Dummy
+2717238
+-1
+Dummy
+2717239
+-1
+Dummy
+2717240
+-1
+Dummy
+2717241
+-1
+Dummy
+2717242
+-1
+Dummy
+2717243
+-1
+Dummy
+2717244
+-1
+Dummy
+2717245
+-1
+Dummy
+2717246
+-1
+Dummy
+2717247
+-1
+Dummy
+2717248
+-1
+Dummy
+2717249
+-1
+Dummy
+2717250
+-1
+Dummy
+2717251
+-1
+Dummy
+2717252
+-1
+Dummy
+2717253
+-1
+Dummy
+2717254
+-1
+Dummy
+2717255
+-1
+Dummy
+2717256
+-1
+Dummy
+2717257
+-1
+Dummy
+2717258
+-1
+Dummy
+2717259
+-1
+Dummy
+2717260
+-1
+Dummy
+2717261
+-1
+Dummy
+2717262
+-1
+Dummy
+2717263
+-1
+Dummy
+2717264
+-1
+Dummy
+2717265
+-1
+Dummy
+2717266
+-1
+Dummy
+2717267
+-1
+Dummy
+2717268
+-1
+Dummy
+2717269
+-1
+Dummy
+2717270
+-1
+Dummy
+2717271
+-1
+Dummy
+2717272
+-1
+Dummy
+2717273
+-1
+Dummy
+2717274
+-1
+Dummy
+2717275
+-1
+Dummy
+2717276
+-1
+Dummy
+2717277
+-1
+Dummy
+2717278
+-1
+Dummy
+2717279
+-1
+Dummy
+2717280
+-1
+Dummy
+2717281
+-1
+Dummy
+2717282
+-1
+Dummy
+2717283
+-1
+Dummy
+2717284
+-1
+Dummy
+2717285
+-1
+Dummy
+2717286
+-1
+Dummy
+2717287
+-1
+Dummy
+2717288
+-1
+Dummy
+2717289
+-1
+Dummy
+2717290
+-1
+Dummy
+2717291
+-1
+Dummy
+2717292
+-1
+Dummy
+2717293
+-1
+Dummy
+2717294
+-1
+Dummy
+2717295
+-1
+Dummy
+2717296
+-1
+Dummy
+2717297
+-1
+Dummy
+2717298
+-1
+Dummy
+2717299
+-1
+Dummy
+2717300
+-1
+Dummy
+2717301
+-1
+Dummy
+2717302
+-1
+Dummy
+2717303
+-1
+Dummy
+2717304
+-1
+Dummy
+2717305
+-1
+Dummy
+2717306
+-1
+Dummy
+2717307
+-1
+Dummy
+2717308
+-1
+Dummy
+2717309
+-1
+Dummy
+2717310
+-1
+Dummy
+2717311
+-1
+Dummy
+2717312
+-1
+Dummy
+2717313
+-1
+Dummy
+2717314
+-1
+Dummy
+2717315
+-1
+Dummy
+2717316
+-1
+Dummy
+2717317
+-1
+Dummy
+2717318
+-1
+Dummy
+2717319
+-1
+Dummy
+2717320
+-1
+Dummy
+2717321
+-1
+Dummy
+2717322
+-1
+Dummy
+2717323
+-1
+Dummy
+2717324
+-1
+Dummy
+2717325
+-1
+Dummy
+2717326
+-1
+Dummy
+2717327
+-1
+Dummy
+2717328
+-1
+Dummy
+2717329
+-1
+Dummy
+2717330
+-1
+Dummy
+2717331
+-1
+Dummy
+2717332
+-1
+Dummy
+2717333
+-1
+Dummy
+2717334
+-1
+Dummy
+2717335
+-1
+Dummy
+2717336
+-1
+Dummy
+2717337
+-1
+Dummy
+2717338
+-1
+Dummy
+2717339
+-1
+Dummy
+2717340
+-1
+Dummy
+2717341
+-1
+Dummy
+2717342
+-1
+Dummy
+2717343
+-1
+Dummy
+2717344
+-1
+Dummy
+2717345
+-1
+Dummy
+2717346
+-1
+Dummy
+2717347
+-1
+Dummy
+2717348
+-1
+Dummy
+2717349
+-1
+Dummy
+2717350
+-1
+Dummy
+2717351
+-1
+Dummy
+2717352
+-1
+Dummy
+2717353
+-1
+Dummy
+2717354
+-1
+Dummy
+2717355
+-1
+Dummy
+2717356
+-1
+Dummy
+2717357
+-1
+Dummy
+2717358
+-1
+Dummy
+2717359
+-1
+Dummy
+2717360
+-1
+Dummy
+2717361
+-1
+Dummy
+2717362
+-1
+Dummy
+2717363
+-1
+Dummy
+2717364
+-1
+Dummy
+2717365
+-1
+Dummy
+2717366
+-1
+Dummy
+2717367
+-1
+Dummy
+2717368
+-1
+Dummy
+2717369
+-1
+Dummy
+2717370
+-1
+Dummy
+2717371
+-1
+Dummy
+2717372
+-1
+Dummy
+2717373
+-1
+Dummy
+2717374
+-1
+Dummy
+2717375
+-1
+Dummy
+2717376
+-1
+Dummy
+2717377
+-1
+Dummy
+2717378
+-1
+Dummy
+2717379
+-1
+Dummy
+2717380
+-1
+Dummy
+2717381
+-1
+Dummy
+2717382
+-1
+Dummy
+2717383
+-1
+Dummy
+2717384
+-1
+Dummy
+2717385
+-1
+Dummy
+2717386
+-1
+Dummy
+2717387
+-1
+Dummy
+2717388
+-1
+Dummy
+2717389
+-1
+Dummy
+2717390
+-1
+Dummy
+2717391
+-1
+Dummy
+2717392
+-1
+Dummy
+2717393
+-1
+Dummy
+2717394
+-1
+Dummy
+2717395
+-1
+Dummy
+2717396
+-1
+Dummy
+2717397
+-1
+Dummy
+2717398
+-1
+Dummy
+2717399
+-1
+Dummy
+2717400
+-1
+Dummy
+2717401
+-1
+Dummy
+2717402
+-1
+Dummy
+2717403
+-1
+Dummy
+2717404
+-1
+Dummy
+2717405
+-1
+Dummy
+2717406
+-1
+Dummy
+2717407
+-1
+Dummy
+2717408
+-1
+Dummy
+2717409
+-1
+Dummy
+2717410
+-1
+Dummy
+2717411
+-1
+Dummy
+2717412
+-1
+Dummy
+2717413
+-1
+Dummy
+2717414
+-1
+Dummy
+2717415
+-1
+Dummy
+2717416
+-1
+Dummy
+2717417
+-1
+Dummy
+2717418
+-1
+Dummy
+2717419
+-1
+Dummy
+2717420
+-1
+Dummy
+2717421
+-1
+Dummy
+2717422
+-1
+Dummy
+2717423
+-1
+Dummy
+2717424
+-1
+Dummy
+2717425
+-1
+Dummy
+2717426
+-1
+Dummy
+2717427
+-1
+Dummy
+2717428
+-1
+Dummy
+2717429
+-1
+Dummy
+2717430
+-1
+Dummy
+2717431
+-1
+Dummy
+2717432
+-1
+Dummy
+2717433
+-1
+Dummy
+2717434
+-1
+Dummy
+2717435
+-1
+Dummy
+2717436
+-1
+Dummy
+2717437
+-1
+Dummy
+2717438
+-1
+Dummy
+2717439
+-1
+Dummy
+2717440
+-1
+Dummy
+2717441
+-1
+Dummy
+2717442
+-1
+Dummy
+2717443
+-1
+Dummy
+2717444
+-1
+Dummy
+2717445
+-1
+Dummy
+2717446
+-1
+Dummy
+2717447
+-1
+Dummy
+2717448
+-1
+Dummy
+2717449
+-1
+Dummy
+2717450
+-1
+Dummy
+2717451
+-1
+Dummy
+2717452
+-1
+Dummy
+2717453
+-1
+Dummy
+2717454
+-1
+Dummy
+2717455
+-1
+Dummy
+2717456
+-1
+Dummy
+2717457
+-1
+Dummy
+2717458
+-1
+Dummy
+2717459
+-1
+Dummy
+2717460
+-1
+Dummy
+2717461
+-1
+Dummy
+2717462
+-1
+Dummy
+2717463
+-1
+Dummy
+2717464
+-1
+Dummy
+2717465
+-1
+Dummy
+2717466
+-1
+Dummy
+2717467
+-1
+Dummy
+2717468
+-1
+Dummy
+2717469
+-1
+Dummy
+2717470
+-1
+Dummy
+2717471
+-1
+Dummy
+2717472
+-1
+Dummy
+2717473
+-1
+Dummy
+2717474
+-1
+Dummy
+2717475
+-1
+Dummy
+2717476
+-1
+Dummy
+2717477
+-1
+Dummy
+2717478
+-1
+Dummy
+2717479
+-1
+Dummy
+2717480
+-1
+Dummy
+2717481
+-1
+Dummy
+2717482
+-1
+Dummy
+2717483
+-1
+Dummy
+2717484
+-1
+Dummy
+2717485
+-1
+Dummy
+2717486
+-1
+Dummy
+2717487
+-1
+Dummy
+2717488
+-1
+Dummy
+2717489
+-1
+Dummy
+2717490
+-1
+Dummy
+2717491
+-1
+Dummy
+2717492
+-1
+Dummy
+2717493
+-1
+Dummy
+2717494
+-1
+Dummy
+2717495
+-1
+Dummy
+2717496
+-1
+Dummy
+2717497
+-1
+Dummy
+2717498
+-1
+Dummy
+2717499
+-1
+Dummy
+2717500
+-1
+Dummy
+2717501
+-1
+Dummy
+2717502
+-1
+Dummy
+2717503
+-1
+Dummy
+2717504
+-1
+Dummy
+2717505
+-1
+Dummy
+2717506
+-1
+Dummy
+2717507
+-1
+Dummy
+2717508
+-1
+Dummy
+2717509
+-1
+Dummy
+2717510
+-1
+Dummy
+2717511
+-1
+Dummy
+2717512
+-1
+Dummy
+2717513
+-1
+Dummy
+2717514
+-1
+Dummy
+2717515
+-1
+Dummy
+2717516
+-1
+Dummy
+2717517
+-1
+Dummy
+2717518
+-1
+Dummy
+2717519
+-1
+Dummy
+2717520
+-1
+Dummy
+2717521
+-1
+Dummy
+2717522
+-1
+Dummy
+2717523
+-1
+Dummy
+2717524
+-1
+Dummy
+2717525
+-1
+Dummy
+2717526
+-1
+Dummy
+2717527
+-1
+Dummy
+2717528
+-1
+Dummy
+2717529
+-1
+Dummy
+2717530
+-1
+Dummy
+2717531
+-1
+Dummy
+2717532
+-1
+Dummy
+2717533
+-1
+Dummy
+2717534
+-1
+Dummy
+2717535
+-1
+Dummy
+2717536
+-1
+Dummy
+2717537
+-1
+Dummy
+2717538
+-1
+Dummy
+2717539
+-1
+Dummy
+2717540
+-1
+Dummy
+2717541
+-1
+Dummy
+2717542
+-1
+Dummy
+2717543
+-1
+Dummy
+2717544
+-1
+Dummy
+2717545
+-1
+Dummy
+2717546
+-1
+Dummy
+2717547
+-1
+Dummy
+2717548
+-1
+Dummy
+2717549
+-1
+Dummy
+2717550
+-1
+Dummy
+2717551
+-1
+Dummy
+2717552
+-1
+Dummy
+2717553
+-1
+Dummy
+2717554
+-1
+Dummy
+2717555
+-1
+Dummy
+2717556
+-1
+Dummy
+2717557
+-1
+Dummy
+2717558
+-1
+Dummy
+2717559
+-1
+Dummy
+2717560
+-1
+Dummy
+2717561
+-1
+Dummy
+2717562
+-1
+Dummy
+2717563
+-1
+Dummy
+2717564
+-1
+Dummy
+2717565
+-1
+Dummy
+2717566
+-1
+Dummy
+2717567
+-1
+Dummy
+2717568
+-1
+Dummy
+2717569
+-1
+Dummy
+2717570
+-1
+Dummy
+2717571
+-1
+Dummy
+2717572
+-1
+Dummy
+2717573
+-1
+Dummy
+2717574
+-1
+Dummy
+2717575
+-1
+Dummy
+2717576
+-1
+Dummy
+2717577
+-1
+Dummy
+2717578
+-1
+Dummy
+2717579
+-1
+Dummy
+2717580
+-1
+Dummy
+2717581
+-1
+Dummy
+2717582
+-1
+Dummy
+2717583
+-1
+Dummy
+2717584
+-1
+Dummy
+2717585
+-1
+Dummy
+2717586
+-1
+Dummy
+2717587
+-1
+Dummy
+2717588
+-1
+Dummy
+2717589
+-1
+Dummy
+2717590
+-1
+Dummy
+2717591
+-1
+Dummy
+2717592
+-1
+Dummy
+2717593
+-1
+Dummy
+2717594
+-1
+Dummy
+2717595
+-1
+Dummy
+2717596
+-1
+Dummy
+2717597
+-1
+Dummy
+2717598
+-1
+Dummy
+2717599
+-1
+Dummy
+2717600
+-1
+Dummy
+2717601
+-1
+Dummy
+2717602
+-1
+Dummy
+2717603
+-1
+Dummy
+2717604
+-1
+Dummy
+2717605
+-1
+Dummy
+2717606
+-1
+Dummy
+2717607
+-1
+Dummy
+2717608
+-1
+Dummy
+2717609
+-1
+Dummy
+2717610
+-1
+Dummy
+2717611
+-1
+Dummy
+2717612
+-1
+Dummy
+2717613
+-1
+Dummy
+2717614
+-1
+Dummy
+2717615
+-1
+Dummy
+2717616
+-1
+Dummy
+2717617
+-1
+Dummy
+2717618
+-1
+Dummy
+2717619
+-1
+Dummy
+2717620
+-1
+Dummy
+2717621
+-1
+Dummy
+2717622
+-1
+Dummy
+2717623
+-1
+Dummy
+2717624
+-1
+Dummy
+2717625
+-1
+Dummy
+2717626
+-1
+Dummy
+2717627
+-1
+Dummy
+2717628
+-1
+Dummy
+2717629
+-1
+Dummy
+2717630
+-1
+Dummy
+2717631
+-1
+Dummy
+2717632
+-1
+Dummy
+2717633
+-1
+Dummy
+2717634
+-1
+Dummy
+2717635
+-1
+Dummy
+2717636
+-1
+Dummy
+2717637
+-1
+Dummy
+2717638
+-1
+Dummy
+2717639
+-1
+Dummy
+2717640
+-1
+Dummy
+2717641
+-1
+Dummy
+2717642
+-1
+Dummy
+2717643
+-1
+Dummy
+2717644
+-1
+Dummy
+2717645
+-1
+Dummy
+2717646
+-1
+Dummy
+2717647
+-1
+Dummy
+2717648
+-1
+Dummy
+2717649
+-1
+Dummy
+2717650
+-1
+Dummy
+2717651
+-1
+Dummy
+2717652
+-1
+Dummy
+2717653
+-1
+Dummy
+2717654
+-1
+Dummy
+2717655
+-1
+Dummy
+2717656
+-1
+Dummy
+2717657
+-1
+Dummy
+2717658
+-1
+Dummy
+2717659
+-1
+Dummy
+2717660
+-1
+Dummy
+2717661
+-1
+Dummy
+2717662
+-1
+Dummy
+2717663
+-1
+Dummy
+2717664
+-1
+Dummy
+2717665
+-1
+Dummy
+2717666
+-1
+Dummy
+2717667
+-1
+Dummy
+2717668
+-1
+Dummy
+2717669
+-1
+Dummy
+2717670
+-1
+Dummy
+2717671
+-1
+Dummy
+2717672
+-1
+Dummy
+2717673
+-1
+Dummy
+2717674
+-1
+Dummy
+2717675
+-1
+Dummy
+2717676
+-1
+Dummy
+2717677
+-1
+Dummy
+2717678
+-1
+Dummy
+2717679
+-1
+Dummy
+2717680
+-1
+Dummy
+2717681
+-1
+Dummy
+2717682
+-1
+Dummy
+2717683
+-1
+Dummy
+2717684
+-1
+Dummy
+2717685
+-1
+Dummy
+2717686
+-1
+Dummy
+2717687
+-1
+Dummy
+2717688
+-1
+Dummy
+2717689
+-1
+Dummy
+2717690
+-1
+Dummy
+2717691
+-1
+Dummy
+2717692
+-1
+Dummy
+2717693
+-1
+Dummy
+2717694
+-1
+Dummy
+2717695
+-1
+Dummy
+2717696
+-1
+Dummy
+2717697
+-1
+Dummy
+2717698
+-1
+Dummy
+2717699
+-1
+Dummy
+2717700
+-1
+Dummy
+2717701
+-1
+Dummy
+2717702
+-1
+Dummy
+2717703
+-1
+Dummy
+2717704
+-1
+Dummy
+2717705
+-1
+Dummy
+2717706
+-1
+Dummy
+2717707
+-1
+Dummy
+2717708
+-1
+Dummy
+2717709
+-1
+Dummy
+2717710
+-1
+Dummy
+2717711
+-1
+Dummy
+2717712
+-1
+Dummy
+2717713
+-1
+Dummy
+2717714
+-1
+Dummy
+2717715
+-1
+Dummy
+2717716
+-1
+Dummy
+2717717
+-1
+Dummy
+2717718
+-1
+Dummy
+2717719
+-1
+Dummy
+2717720
+-1
+Dummy
+2717721
+-1
+Dummy
+2717722
+-1
+Dummy
+2717723
+-1
+Dummy
+2717724
+-1
+Dummy
+2717725
+-1
+Dummy
+2717726
+-1
+Dummy
+2717727
+-1
+Dummy
+2717728
+-1
+Dummy
+2717729
+-1
+Dummy
+2717730
+-1
+Dummy
+2717731
+-1
+Dummy
+2717732
+-1
+Dummy
+2717733
+-1
+Dummy
+2717734
+-1
+Dummy
+2717735
+-1
+Dummy
+2717736
+-1
+Dummy
+2717737
+-1
+Dummy
+2717738
+-1
+Dummy
+2717739
+-1
+Dummy
+2717740
+-1
+Dummy
+2717741
+-1
+Dummy
+2717742
+-1
+Dummy
+2717743
+-1
+Dummy
+2717744
+-1
+Dummy
+2717745
+-1
+Dummy
+2717746
+-1
+Dummy
+2717747
+-1
+Dummy
+2717748
+-1
+Dummy
+2717749
+-1
+Dummy
+2717750
+-1
+Dummy
+2717751
+-1
+Dummy
+2717752
+-1
+Dummy
+2717753
+-1
+Dummy
+2717754
+-1
+Dummy
+2717755
+-1
+Dummy
+2717756
+-1
+Dummy
+2717757
+-1
+Dummy
+2717758
+-1
+Dummy
+2717759
+-1
+Dummy
+2717760
+-1
+Dummy
+2717761
+-1
+Dummy
+2717762
+-1
+Dummy
+2717763
+-1
+Dummy
+2717764
+-1
+Dummy
+2717765
+-1
+Dummy
+2717766
+-1
+Dummy
+2717767
+-1
+Dummy
+2717768
+-1
+Dummy
+2717769
+-1
+Dummy
+2717770
+-1
+Dummy
+2717771
+-1
+Dummy
+2717772
+-1
+Dummy
+2717773
+-1
+Dummy
+2717774
+-1
+Dummy
+2717775
+-1
+Dummy
+2717776
+-1
+Dummy
+2717777
+-1
+Dummy
+2717778
+-1
+Dummy
+2717779
+-1
+Dummy
+2717780
+-1
+Dummy
+2717781
+-1
+Dummy
+2717782
+-1
+Dummy
+2717783
+-1
+Dummy
+2717784
+-1
+Dummy
+2717785
+-1
+Dummy
+2717786
+-1
+Dummy
+2717787
+-1
+Dummy
+2717788
+-1
+Dummy
+2717789
+-1
+Dummy
+2717790
+-1
+Dummy
+2717791
+-1
+Dummy
+2717792
+-1
+Dummy
+2717793
+-1
+Dummy
+2717794
+-1
+Dummy
+2717795
+-1
+Dummy
+2717796
+-1
+Dummy
+2717797
+-1
+Dummy
+2717798
+-1
+Dummy
+2717799
+-1
+Dummy
+2717800
+-1
+Dummy
+2717801
+-1
+Dummy
+2717802
+-1
+Dummy
+2717803
+-1
+Dummy
+2717804
+-1
+Dummy
+2717805
+-1
+Dummy
+2717806
+-1
+Dummy
+2717807
+-1
+Dummy
+2717808
+-1
+Dummy
+2717809
+-1
+Dummy
+2717810
+-1
+Dummy
+2717811
+-1
+Dummy
+2717812
+-1
+Dummy
+2717813
+-1
+Dummy
+2717814
+-1
+Dummy
+2717815
+-1
+Dummy
+2717816
+-1
+Dummy
+2717817
+-1
+Dummy
+2717818
+-1
+Dummy
+2717819
+-1
+Dummy
+2717820
+-1
+Dummy
+2717821
+-1
+Dummy
+2717822
+-1
+Dummy
+2717823
+-1
+Dummy
+2717824
+-1
+Dummy
+2717825
+-1
+Dummy
+2717826
+-1
+Dummy
+2717827
+-1
+Dummy
+2717828
+-1
+Dummy
+2717829
+-1
+Dummy
+2717830
+-1
+Dummy
+2717831
+-1
+Dummy
+2717832
+-1
+Dummy
+2717833
+-1
+Dummy
+2717834
+-1
+Dummy
+2717835
+-1
+Dummy
+2717836
+-1
+Dummy
+2717837
+-1
+Dummy
+2717838
+-1
+Dummy
+2717839
+-1
+Dummy
+2717840
+-1
+Dummy
+2717841
+-1
+Dummy
+2717842
+-1
+Dummy
+2717843
+-1
+Dummy
+2717844
+-1
+Dummy
+2717845
+-1
+Dummy
+2717846
+-1
+Dummy
+2717847
+-1
+Dummy
+2717848
+-1
+Dummy
+2717849
+-1
+Dummy
+2717850
+-1
+Dummy
+2717851
+-1
+Dummy
+2717852
+-1
+Dummy
+2717853
+-1
+Dummy
+2717854
+-1
+Dummy
+2717855
+-1
+Dummy
+2717856
+-1
+Dummy
+2717857
+-1
+Dummy
+2717858
+-1
+Dummy
+2717859
+-1
+Dummy
+2717860
+-1
+Dummy
+2717861
+-1
+Dummy
+2717862
+-1
+Dummy
+2717863
+-1
+Dummy
+2717864
+-1
+Dummy
+2717865
+-1
+Dummy
+2717866
+-1
+Dummy
+2717867
+-1
+Dummy
+2717868
+-1
+Dummy
+2717869
+-1
+Dummy
+2717870
+-1
+Dummy
+2717871
+-1
+Dummy
+2717872
+-1
+Dummy
+2717873
+-1
+Dummy
+2717874
+-1
+Dummy
+2717875
+-1
+Dummy
+2717876
+-1
+Dummy
+2717877
+-1
+Dummy
+2717878
+-1
+Dummy
+2717879
+-1
+Dummy
+2717880
+-1
+Dummy
+2717881
+-1
+Dummy
+2717882
+-1
+Dummy
+2717883
+-1
+Dummy
+2717884
+-1
+Dummy
+2717885
+-1
+Dummy
+2717886
+-1
+Dummy
+2717887
+-1
+Dummy
+2717888
+-1
+Dummy
+2717889
+-1
+Dummy
+2717890
+-1
+Dummy
+2717891
+-1
+Dummy
+2717892
+-1
+Dummy
+2717893
+-1
+Dummy
+2717894
+-1
+Dummy
+2717895
+-1
+Dummy
+2717896
+-1
+Dummy
+2717897
+-1
+Dummy
+2717898
+-1
+Dummy
+2717899
+-1
+Dummy
+2717900
+-1
+Dummy
+2717901
+-1
+Dummy
+2717902
+-1
+Dummy
+2717903
+-1
+Dummy
+2717904
+-1
+Dummy
+2717905
+-1
+Dummy
+2717906
+-1
+Dummy
+2717907
+-1
+Dummy
+2717908
+-1
+Dummy
+2717909
+-1
+Dummy
+2717910
+-1
+Dummy
+2717911
+-1
+Dummy
+2717912
+-1
+Dummy
+2717913
+-1
+Dummy
+2717914
+-1
+Dummy
+2717915
+-1
+Dummy
+2717916
+-1
+Dummy
+2717917
+-1
+Dummy
+2717918
+-1
+Dummy
+2717919
+-1
+Dummy
+2717920
+-1
+Dummy
+2717921
+-1
+Dummy
+2717922
+-1
+Dummy
+2717923
+-1
+Dummy
+2717924
+-1
+Dummy
+2717925
+-1
+Dummy
+2717926
+-1
+Dummy
+2717927
+-1
+Dummy
+2717928
+-1
+Dummy
+2717929
+-1
+Dummy
+2717930
+-1
+Dummy
+2717931
+-1
+Dummy
+2717932
+-1
+Dummy
+2717933
+-1
+Dummy
+2717934
+-1
+Dummy
+2717935
+-1
+Dummy
+2717936
+-1
+Dummy
+2717937
+-1
+Dummy
+2717938
+-1
+Dummy
+2717939
+-1
+Dummy
+2717940
+-1
+Dummy
+2717941
+-1
+Dummy
+2717942
+-1
+Dummy
+2717943
+-1
+Dummy
+2717944
+-1
+Dummy
+2717945
+-1
+Dummy
+2717946
+-1
+Dummy
+2717947
+-1
+Dummy
+2717948
+-1
+Dummy
+2717949
+-1
+Dummy
+2717950
+-1
+Dummy
+2717951
+-1
+Dummy
+2717952
+-1
+Dummy
+2717953
+-1
+Dummy
+2717954
+-1
+Dummy
+2717955
+-1
+Dummy
+2717956
+-1
+Dummy
+2717957
+-1
+Dummy
+2717958
+-1
+Dummy
+2717959
+-1
+Dummy
+2717960
+-1
+Dummy
+2717961
+-1
+Dummy
+2717962
+-1
+Dummy
+2717963
+-1
+Dummy
+2717964
+-1
+Dummy
+2717965
+-1
+Dummy
+2717966
+-1
+Dummy
+2717967
+-1
+Dummy
+2717968
+-1
+Dummy
+2717969
+-1
+Dummy
+2717970
+-1
+Dummy
+2717971
+-1
+Dummy
+2717972
+-1
+Dummy
+2717973
+-1
+Dummy
+2717974
+-1
+Dummy
+2717975
+-1
+Dummy
+2717976
+-1
+Dummy
+2717977
+-1
+Dummy
+2717978
+-1
+Dummy
+2717979
+-1
+Dummy
+2717980
+-1
+Dummy
+2717981
+-1
+Dummy
+2717982
+-1
+Dummy
+2717983
+-1
+Dummy
+2717984
+-1
+Dummy
+2717985
+-1
+Dummy
+2717986
+-1
+Dummy
+2717987
+-1
+Dummy
+2717988
+-1
+Dummy
+2717989
+-1
+Dummy
+2717990
+-1
+Dummy
+2717991
+-1
+Dummy
+2717992
+-1
+Dummy
+2717993
+-1
+Dummy
+2717994
+-1
+Dummy
+2717995
+-1
+Dummy
+2717996
+-1
+Dummy
+2717997
+-1
+Dummy
+2717998
+-1
+Dummy
+2717999
+-1
+Dummy
+2718000
+-1
+Dummy
+2718001
+-1
+Dummy
+2718002
+-1
+Dummy
+2718003
+-1
+Dummy
+2718004
+-1
+Dummy
+2718005
+-1
+Dummy
+2718006
+-1
+Dummy
+2718007
+-1
+Dummy
+2718008
+-1
+Dummy
+2718009
+-1
+Dummy
+2718010
+-1
+Dummy
+2718011
+-1
+Dummy
+2718012
+-1
+Dummy
+2718013
+-1
+Dummy
+2718014
+-1
+Dummy
+2718015
+-1
+Dummy
+2718016
+-1
+Dummy
+2718017
+-1
+Dummy
+2718018
+-1
+Dummy
+2718019
+-1
+Dummy
+2718020
+-1
+Dummy
+2718021
+-1
+Dummy
+2718022
+-1
+Dummy
+2718023
+-1
+Dummy
+2718024
+-1
+Dummy
+2718025
+-1
+Dummy
+2718026
+-1
+Dummy
+2718027
+-1
+Dummy
+2718028
+-1
+Dummy
+2718029
+-1
+Dummy
+2718030
+-1
+Dummy
+2718031
+-1
+Dummy
+2718032
+-1
+Dummy
+2718033
+-1
+Dummy
+2718034
+-1
+Dummy
+2718035
+-1
+Dummy
+2718036
+-1
+Dummy
+2718037
+-1
+Dummy
+2718038
+-1
+Dummy
+2718039
+-1
+Dummy
+2718040
+-1
+Dummy
+2718041
+-1
+Dummy
+2718042
+-1
+Dummy
+2718043
+-1
+Dummy
+2718044
+-1
+Dummy
+2718045
+-1
+Dummy
+2718046
+-1
+Dummy
+2718047
+-1
+Dummy
+2718048
+-1
+Dummy
+2718049
+-1
+Dummy
+2718050
+-1
+Dummy
+2718051
+-1
+Dummy
+2718052
+-1
+Dummy
+2718053
+-1
+Dummy
+2718054
+-1
+Dummy
+2718055
+-1
+Dummy
+2718056
+-1
+Dummy
+2718057
+-1
+Dummy
+2718058
+-1
+Dummy
+2718059
+-1
+Dummy
+2718060
+-1
+Dummy
+2718061
+-1
+Dummy
+2718062
+-1
+Dummy
+2718063
+-1
+Dummy
+2718064
+-1
+Dummy
+2718065
+-1
+Dummy
+2718066
+-1
+Dummy
+2718067
+-1
+Dummy
+2718068
+-1
+Dummy
+2718069
+-1
+Dummy
+2718070
+-1
+Dummy
+2718071
+-1
+Dummy
+2718072
+-1
+Dummy
+2718073
+-1
+Dummy
+2718074
+-1
+Dummy
+2718075
+-1
+Dummy
+2718076
+-1
+Dummy
+2718077
+-1
+Dummy
+2718078
+-1
+Dummy
+2718079
+-1
+Dummy
+2718080
+-1
+Dummy
+2718081
+-1
+Dummy
+2718082
+-1
+Dummy
+2718083
+-1
+Dummy
+2718084
+-1
+Dummy
+2718085
+-1
+Dummy
+2718086
+-1
+Dummy
+2718087
+-1
+Dummy
+2718088
+-1
+Dummy
+2718089
+-1
+Dummy
+2718090
+-1
+Dummy
+2718091
+-1
+Dummy
+2718092
+-1
+Dummy
+2718093
+-1
+Dummy
+2718094
+-1
+Dummy
+2718095
+-1
+Dummy
+2718096
+-1
+Dummy
+2718097
+-1
+Dummy
+2718098
+-1
+Dummy
+2718099
+-1
+Dummy
+2718100
+-1
+Dummy
+2718101
+-1
+Dummy
+2718102
+-1
+Dummy
+2718103
+-1
+Dummy
+2718104
+-1
+Dummy
+2718105
+-1
+Dummy
+2718106
+-1
+Dummy
+2718107
+-1
+Dummy
+2718108
+-1
+Dummy
+2718109
+-1
+Dummy
+2718110
+-1
+Dummy
+2718111
+-1
+Dummy
+2718112
+-1
+Dummy
+2718113
+-1
+Dummy
+2718114
+-1
+Dummy
+2718115
+-1
+Dummy
+2718116
+-1
+Dummy
+2718117
+-1
+Dummy
+2718118
+-1
+Dummy
+2718119
+-1
+Dummy
+2718120
+-1
+Dummy
+2718121
+-1
+Dummy
+2718122
+-1
+Dummy
+2718123
+-1
+Dummy
+2718124
+-1
+Dummy
+2718125
+-1
+Dummy
+2718126
+-1
+Dummy
+2718127
+-1
+Dummy
+2718128
+-1
+Dummy
+2718129
+-1
+Dummy
+2718130
+-1
+Dummy
+2718131
+-1
+Dummy
+2718132
+-1
+Dummy
+2718133
+-1
+Dummy
+2718134
+-1
+Dummy
+2718135
+-1
+Dummy
+2718136
+-1
+Dummy
+2718137
+-1
+Dummy
+2718138
+-1
+Dummy
+2718139
+-1
+Dummy
+2718140
+-1
+Dummy
+2718141
+-1
+Dummy
+2718142
+-1
+Dummy
+2718143
+-1
+Dummy
+2718144
+-1
+Dummy
+2718145
+-1
+Dummy
+2718146
+-1
+Dummy
+2718147
+-1
+Dummy
+2718148
+-1
+Dummy
+2718149
+-1
+Dummy
+2718150
+-1
+Dummy
+2718151
+-1
+Dummy
+2718152
+-1
+Dummy
+2718153
+-1
+Dummy
+2718154
+-1
+Dummy
+2718155
+-1
+Dummy
+2718156
+-1
+Dummy
+2718157
+-1
+Dummy
+2718158
+-1
+Dummy
+2718159
+-1
+Dummy
+2718160
+-1
+Dummy
+2718161
+-1
+Dummy
+2718162
+-1
+Dummy
+2718163
+-1
+Dummy
+2718164
+-1
+Dummy
+2718165
+-1
+Dummy
+2718166
+-1
+Dummy
+2718167
+-1
+Dummy
+2718168
+-1
+Dummy
+2718169
+-1
+Dummy
+2718170
+-1
+Dummy
+2718171
+-1
+Dummy
+2718172
+-1
+Dummy
+2718173
+-1
+Dummy
+2718174
+-1
+Dummy
+2718175
+-1
+Dummy
+2718176
+-1
+Dummy
+2718177
+-1
+Dummy
+2718178
+-1
+Dummy
+2718179
+-1
+Dummy
+2718180
+-1
+Dummy
+2718181
+-1
+Dummy
+2718182
+-1
+Dummy
+2718183
+-1
+Dummy
+2718184
+-1
+Dummy
+2718185
+-1
+Dummy
+2718186
+-1
+Dummy
+2718187
+-1
+Dummy
+2718188
+-1
+Dummy
+2718189
+-1
+Dummy
+2718190
+-1
+Dummy
+2718191
+-1
+Dummy
+2718192
+-1
+Dummy
+2718193
+-1
+Dummy
+2718194
+-1
+Dummy
+2718195
+-1
+Dummy
+2718196
+-1
+Dummy
+2718197
+-1
+Dummy
+2718198
+-1
+Dummy
+2718199
+-1
+Dummy
+2718200
+-1
+Dummy
+2718201
+-1
+Dummy
+2718202
+-1
+Dummy
+2718203
+-1
+Dummy
+2718204
+-1
+Dummy
+2718205
+-1
+Dummy
+2718206
+-1
+Dummy
+2718207
+-1
+Dummy
+2718208
+-1
+Dummy
+2718209
+-1
+Dummy
+2718210
+-1
+Dummy
+2718211
+-1
+Dummy
+2718212
+-1
+Dummy
+2718213
+-1
+Dummy
+2718214
+-1
+Dummy
+2718215
+-1
+Dummy
+2718216
+-1
+Dummy
+2718217
+-1
+Dummy
+2718218
+-1
+Dummy
+2718219
+-1
+Dummy
+2718220
+-1
+Dummy
+2718221
+-1
+Dummy
+2718222
+-1
+Dummy
+2718223
+-1
+Dummy
+2718224
+-1
+Dummy
+2718225
+-1
+Dummy
+2718226
+-1
+Dummy
+2718227
+-1
+Dummy
+2718228
+-1
+Dummy
+2718229
+-1
+Dummy
+2718230
+-1
+Dummy
+2718231
+-1
+Dummy
+2718232
+-1
+Dummy
+2718233
+-1
+Dummy
+2718234
+-1
+Dummy
+2718235
+-1
+Dummy
+2718236
+-1
+Dummy
+2718237
+-1
+Dummy
+2718238
+-1
+Dummy
+2718239
+-1
+Dummy
+2718240
+-1
+Dummy
+2718241
+-1
+Dummy
+2718242
+-1
+Dummy
+2718243
+-1
+Dummy
+2718244
+-1
+Dummy
+2718245
+-1
+Dummy
+2718246
+-1
+Dummy
+2718247
+-1
+Dummy
+2718248
+-1
+Dummy
+2718249
+-1
+Dummy
+2718250
+-1
+Dummy
+2718251
+-1
+Dummy
+2718252
+-1
+Dummy
+2718253
+-1
+Dummy
+2718254
+-1
+Dummy
+2718255
+-1
+Dummy
+2718256
+-1
+Dummy
+2718257
+-1
+Dummy
+2718258
+-1
+Dummy
+2718259
+-1
+Dummy
+2718260
+-1
+Dummy
+2718261
+-1
+Dummy
+2718262
+-1
+Dummy
+2718263
+-1
+Dummy
+2718264
+-1
+Dummy
+2718265
+-1
+Dummy
+2718266
+-1
+Dummy
+2718267
+-1
+Dummy
+2718268
+-1
+Dummy
+2718269
+-1
+Dummy
+2718270
+-1
+Dummy
+2718271
+-1
+Dummy
+2718272
+-1
+Dummy
+2718273
+-1
+Dummy
+2718274
+-1
+Dummy
+2718275
+-1
+Dummy
+2718276
+-1
+Dummy
+2718277
+-1
+Dummy
+2718278
+-1
+Dummy
+2718279
+-1
+Dummy
+2718280
+-1
+Dummy
+2718281
+-1
+Dummy
+2718282
+-1
+Dummy
+2718283
+-1
+Dummy
+2718284
+-1
+Dummy
+2718285
+-1
+Dummy
+2718286
+-1
+Dummy
+2718287
+-1
+Dummy
+2718288
+-1
+Dummy
+2718289
+-1
+Dummy
+2718290
+-1
+Dummy
+2718291
+-1
+Dummy
+2718292
+-1
+Dummy
+2718293
+-1
+Dummy
+2718294
