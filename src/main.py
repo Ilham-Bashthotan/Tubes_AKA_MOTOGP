@@ -58,7 +58,7 @@ def main():
             clear_screen()
             menuPencarianDataRandom(dataRider, nDataRider)
         elif pilih == "4":
-            for _ in range(100):  # Change 1 to 100
+            for _ in range(20):  # Change 1 to 100
                 clear_screen()
                 nDataTimeIterative, nDataTimeRecursive = menuKompleksitasPencarianData(dataRider, nDataRider, dataTimeIterative, nDataTimeIterative, dataTimeRecursive, nDataTimeRecursive, lap)
                 lap += 1
@@ -179,7 +179,7 @@ def binarySearchIterative(dataRider, nDataRider, timeRAC):
     left = 0
     right = nDataRider - 1
     while left <= right and found == -1:
-        # time.sleep(0.001)
+        time.sleep(0.000001)
         mid = (right + left) // 2
         if dataRider[mid].timeRAC == timeRAC:
             found = mid
@@ -190,7 +190,7 @@ def binarySearchIterative(dataRider, nDataRider, timeRAC):
     return found
 
 def binarySearchRecursive(dataRider, timeRAC, mid, left, right, found):
-    # time.sleep(0.001)
+    time.sleep(0.000001)
     if left <= right and found == -1:
         mid = (right + left) // 2
         if dataRider[mid].timeRAC == timeRAC:
