@@ -36,9 +36,13 @@ func main() {
 	var nDataEvent int
 	var nDataRider int
 	var pilih string
+	var dataTimeIterative, dataTimeRecursive tabComplexity
+	var nDataTimeIterative, nDataTimeRecursive int
+	var lap int
 
 	nDataRider = 0
 	nDataEvent = 0
+	lap = 1
 	for {
 		clear_screen()
 		fmt.Println("--------------------------")
@@ -63,8 +67,11 @@ func main() {
 				clear_screen()
 				menuPencarianDataRandom(dataRider, nDataRider)
 			case "4": 
-				clear_screen()
-				menuKompleksitasPencarianData(dataRider, nDataRider)
+				for i := 0; i < 100; i++  {
+					clear_screen()
+					menuKompleksitasPencarianData(dataRider, nDataRider, &dataTimeIterative, &nDataTimeIterative, &dataTimeRecursive, &nDataTimeRecursive, lap)
+					lap++
+				}
 		} 
 		fmt.Print("Tekan apapun untuk melanjutkan")
 		inputFrasa(&bin)
@@ -139,21 +146,17 @@ func menuPencarianDataRandom(dataRider tabRider, nDataRider int) {
 	fmt.Println("Data yang dicari: ", binarySearchRecursiveMaster(dataRider, nDataRider, timeRAC))
 }
 // menu 4
-func menuKompleksitasPencarianData(dataRider tabRider, nDataRider int) {
-	var dataTimeIterative, dataTimeRecursive tabComplexity
-	var nDataTimeIterative, nDataTimeRecursive int
+func menuKompleksitasPencarianData(dataRider tabRider, nDataRider int, dataTimeIterative *tabComplexity, nDataTimeIterative *int, dataTimeRecursive *tabComplexity, nDataTimeRecursive *int, lap int) {
 	var i, n int
 	var start time.Time
 	var awal, tengah, akhir int
-	var bin string
 
 	fmt.Println("Kompleksitas Pencarian Data")
-	nDataTimeIterative = 0
-	nDataTimeRecursive = 0
+	*nDataTimeIterative = 0
+	*nDataTimeRecursive = 0
 	i = 4
 	for i < nDataRider {
 		n = i + 1
-		// fmt.Println("n =", n, "| dataRider[0].timeRAC =", dataRider[0].timeRAC, "| dataRider[i/2].timeRAC =", dataRider[i/2].timeRAC, "| dataRider[i].timeRAC =", dataRider[i].timeRAC)
 		// Iterative //
 		// awal
 		start = time.Now()
@@ -167,7 +170,7 @@ func menuKompleksitasPencarianData(dataRider tabRider, nDataRider int) {
 		start = time.Now()
 		binarySearchIterative(dataRider, n, dataRider[i].timeRAC)
 		akhir = int(time.Duration(time.Since(start).Nanoseconds()))
-		addTimeComplexity(&dataTimeIterative, &nDataTimeIterative, awal, tengah, akhir)
+		addTimeComplexity(dataTimeIterative, nDataTimeIterative, awal, tengah, akhir)
 		// Recursive //
 		// awal
 		start = time.Now()
@@ -181,15 +184,13 @@ func menuKompleksitasPencarianData(dataRider tabRider, nDataRider int) {
 		start = time.Now()
 		binarySearchRecursiveMaster(dataRider, n, dataRider[i].timeRAC)
 		akhir = int(time.Duration(time.Since(start).Nanoseconds()))
-		addTimeComplexity(&dataTimeRecursive, &nDataTimeRecursive, awal, tengah, akhir)
+		addTimeComplexity(dataTimeRecursive, nDataTimeRecursive, awal, tengah, akhir)
 		i += 5
 	}
-	fmt.Scan(&bin)
 	fmt.Println("Kompleksitas Pencarian Data Iterative")
-	printComplexity(dataTimeIterative, nDataTimeIterative)
-	fmt.Scan(&bin)
+	printComplexity(*dataTimeIterative, *nDataTimeIterative, lap)
 	fmt.Println("Kompleksitas Pencarian Data Recursive")
-	printComplexity(dataTimeRecursive, nDataTimeRecursive)
+	printComplexity(*dataTimeRecursive, *nDataTimeRecursive, lap)
 }
 
 /////////////////////////// func ///////////////////////////
@@ -221,18 +222,20 @@ func printAllRiderByIDEvent(dataRider tabRider, nDataRider, ID int) {
 	}
 }
 
-func printComplexity(dataTime tabComplexity, nDataTime int) {
+func printComplexity(dataTime tabComplexity, nDataTime, lap int) {
 	var i int
 
 	for i = 0; i < nDataTime; i++ {
-		fmt.Print("!", dataTime[i].awal, " @", dataTime[i].tengah, " #", dataTime[i].akhir, "\n")
+		fmt.Print("!", dataTime[i].awal / lap, " @", dataTime[i].tengah / lap, " #", dataTime[i].akhir / lap, "\n")
 	}
 }
-
 func addTimeComplexity(dataTime *tabComplexity, nDataTime *int, awal, tengah, akhir int) {
-	dataTime[*nDataTime].awal = awal
-	dataTime[*nDataTime].tengah = tengah
-	dataTime[*nDataTime].akhir = akhir
+	awal += (*dataTime)[*nDataTime].awal
+	tengah += (*dataTime)[*nDataTime].tengah
+	akhir += (*dataTime)[*nDataTime].akhir
+	(*dataTime)[*nDataTime].awal = awal
+	(*dataTime)[*nDataTime].tengah = tengah
+	(*dataTime)[*nDataTime].akhir = akhir
 	*nDataTime++
 }
 
@@ -247,7 +250,7 @@ func binarySearchIterative(dataRider tabRider, nDataRider, timeRAC int) int {
 	left = 0
 	right = nDataRider - 1
 	for left <= right && found == -1 {
-		// time.Sleep(1)
+		time.Sleep(1)
 		mid = (right + left) / 2
 		if dataRider[mid].timeRAC == timeRAC {
 			found = mid
@@ -264,7 +267,7 @@ func binarySearchRecursive(dataRider tabRider, timeRAC, mid, left, right, found 
 // mengaembalikan index pencarian apabila x ada di dalam array yang berisi n
 // bilangan atau -1 apabila tidak ditemukan, tab terurut membesar atau ascending,
 // algotitma dengan Recursive
-	// time.Sleep(1)
+	time.Sleep(1)
 	if left <= right && found == -1 {
 		mid = (right + left) / 2
 		if dataRider[mid].timeRAC == timeRAC {

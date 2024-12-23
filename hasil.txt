@@ -1,1204 +1,802 @@
-n = 5 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 1448327 | dataRider[i].timeRAC = 1449495
-n = 10 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 1449495 | dataRider[i].timeRAC = 1458558
-n = 15 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 1454916 | dataRider[i].timeRAC = 1471235
-n = 20 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 1458558 | dataRider[i].timeRAC = 2228012
-n = 25 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 1462371 | dataRider[i].timeRAC = 2236348
-n = 30 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 1471235 | dataRider[i].timeRAC = 2248885
-n = 35 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2219157 | dataRider[i].timeRAC = 2336536
-n = 40 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2228012 | dataRider[i].timeRAC = 2346980
-n = 45 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2233830 | dataRider[i].timeRAC = 2352720
-n = 50 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2236348 | dataRider[i].timeRAC = 2369085
-n = 55 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2247678 | dataRider[i].timeRAC = 2373845
-n = 60 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2248885 | dataRider[i].timeRAC = 2380298
-n = 65 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2268399 | dataRider[i].timeRAC = 2384931
-n = 70 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2336536 | dataRider[i].timeRAC = 2387348
-n = 75 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2343688 | dataRider[i].timeRAC = 2392035
-n = 80 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2346980 | dataRider[i].timeRAC = 2397685
-n = 85 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2349439 | dataRider[i].timeRAC = 2402699
-n = 90 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2352720 | dataRider[i].timeRAC = 2416083
-n = 95 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2362899 | dataRider[i].timeRAC = 2418877
-n = 100 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2369085 | dataRider[i].timeRAC = 2428986
-n = 105 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2370204 | dataRider[i].timeRAC = 2439565
-n = 110 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2373845 | dataRider[i].timeRAC = 2440367
-n = 115 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2380045 | dataRider[i].timeRAC = 2442468
-n = 120 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2380298 | dataRider[i].timeRAC = 2449142
-n = 125 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2384595 | dataRider[i].timeRAC = 2450325
-n = 130 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2384931 | dataRider[i].timeRAC = 2452513
-n = 135 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2386823 | dataRider[i].timeRAC = 2458889
-n = 140 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2387348 | dataRider[i].timeRAC = 2460564
-n = 145 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2389422 | dataRider[i].timeRAC = 2463171
-n = 150 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2392035 | dataRider[i].timeRAC = 2466489
-n = 155 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2395138 | dataRider[i].timeRAC = 2469091
-n = 160 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2397685 | dataRider[i].timeRAC = 2472097
-n = 165 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2401352 | dataRider[i].timeRAC = 2476863
-n = 170 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2402699 | dataRider[i].timeRAC = 2477566
-n = 175 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2409663 | dataRider[i].timeRAC = 2478840
-n = 180 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2416083 | dataRider[i].timeRAC = 2480599
-n = 185 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2418341 | dataRider[i].timeRAC = 2483249
-n = 190 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2418877 | dataRider[i].timeRAC = 2486698
-n = 195 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2426216 | dataRider[i].timeRAC = 2488127
-n = 200 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2428986 | dataRider[i].timeRAC = 2492977
-n = 205 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2439168 | dataRider[i].timeRAC = 2493782
-n = 210 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2439565 | dataRider[i].timeRAC = 2494724
-n = 215 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2439923 | dataRider[i].timeRAC = 2497233
-n = 220 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2440367 | dataRider[i].timeRAC = 2501411
-n = 225 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2441047 | dataRider[i].timeRAC = 2502765
-n = 230 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2442468 | dataRider[i].timeRAC = 2503363
-n = 235 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2448729 | dataRider[i].timeRAC = 2505695
-n = 240 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2449142 | dataRider[i].timeRAC = 2507019
-n = 245 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2450077 | dataRider[i].timeRAC = 2508403
-n = 250 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2450325 | dataRider[i].timeRAC = 2510761
-n = 255 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2452256 | dataRider[i].timeRAC = 2511608
-n = 260 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2452513 | dataRider[i].timeRAC = 2514340
-n = 265 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2456524 | dataRider[i].timeRAC = 2516932
-n = 270 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2458889 | dataRider[i].timeRAC = 2521085
-n = 275 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2460314 | dataRider[i].timeRAC = 2525109
-n = 280 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2460564 | dataRider[i].timeRAC = 2527972
-n = 285 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2460882 | dataRider[i].timeRAC = 2531394
-n = 290 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2463171 | dataRider[i].timeRAC = 2543315
-n = 295 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2464128 | dataRider[i].timeRAC = 2553658
-n = 300 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2466489 | dataRider[i].timeRAC = 2557661
-n = 305 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2467308 | dataRider[i].timeRAC = 2566342
-n = 310 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2469091 | dataRider[i].timeRAC = 2572313
-n = 315 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2471376 | dataRider[i].timeRAC = 2672603
-n = 320 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2472097 | dataRider[i].timeRAC = 2679613
-n = 325 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2474649 | dataRider[i].timeRAC = 2694609
-n = 330 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2476863 | dataRider[i].timeRAC = 2716624
-n = 335 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2477204 | dataRider[i].timeRAC = 2716629
-n = 340 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2477566 | dataRider[i].timeRAC = 2716634
-n = 345 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2477952 | dataRider[i].timeRAC = 2716639
-n = 350 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2478840 | dataRider[i].timeRAC = 2716644
-n = 355 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2480230 | dataRider[i].timeRAC = 2716649
-n = 360 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2480599 | dataRider[i].timeRAC = 2716654
-n = 365 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2481488 | dataRider[i].timeRAC = 2716659
-n = 370 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2483249 | dataRider[i].timeRAC = 2716664
-n = 375 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2485788 | dataRider[i].timeRAC = 2716669
-n = 380 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2486698 | dataRider[i].timeRAC = 2716674
-n = 385 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2487771 | dataRider[i].timeRAC = 2716679
-n = 390 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2488127 | dataRider[i].timeRAC = 2716684
-n = 395 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2491521 | dataRider[i].timeRAC = 2716689
-n = 400 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2492977 | dataRider[i].timeRAC = 2716694
-n = 405 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2493526 | dataRider[i].timeRAC = 2716699
-n = 410 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2493782 | dataRider[i].timeRAC = 2716704
-n = 415 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2494473 | dataRider[i].timeRAC = 2716709
-n = 420 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2494724 | dataRider[i].timeRAC = 2716714
-n = 425 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2495973 | dataRider[i].timeRAC = 2716719
-n = 430 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2497233 | dataRider[i].timeRAC = 2716724
-n = 435 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2498810 | dataRider[i].timeRAC = 2716729
-n = 440 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2501411 | dataRider[i].timeRAC = 2716734
-n = 445 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2502393 | dataRider[i].timeRAC = 2716739
-n = 450 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2502765 | dataRider[i].timeRAC = 2716744
-n = 455 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2502849 | dataRider[i].timeRAC = 2716749
-n = 460 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2503363 | dataRider[i].timeRAC = 2716754
-n = 465 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2504251 | dataRider[i].timeRAC = 2716759
-n = 470 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2505695 | dataRider[i].timeRAC = 2716764
-n = 475 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2506997 | dataRider[i].timeRAC = 2716769
-n = 480 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2507019 | dataRider[i].timeRAC = 2716774
-n = 485 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2508062 | dataRider[i].timeRAC = 2716779
-n = 490 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2508403 | dataRider[i].timeRAC = 2716784
-n = 495 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2509299 | dataRider[i].timeRAC = 2716789
-n = 500 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2510761 | dataRider[i].timeRAC = 2716794
-n = 505 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2511274 | dataRider[i].timeRAC = 2716799
-n = 510 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2511608 | dataRider[i].timeRAC = 2716804
-n = 515 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2512993 | dataRider[i].timeRAC = 2716809
-n = 520 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2514340 | dataRider[i].timeRAC = 2716814
-n = 525 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2515525 | dataRider[i].timeRAC = 2716819
-n = 530 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2516932 | dataRider[i].timeRAC = 2716824
-n = 535 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2518473 | dataRider[i].timeRAC = 2716829
-n = 540 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2521085 | dataRider[i].timeRAC = 2716834
-n = 545 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2523157 | dataRider[i].timeRAC = 2716839
-n = 550 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2525109 | dataRider[i].timeRAC = 2716844
-n = 555 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2525958 | dataRider[i].timeRAC = 2716849
-n = 560 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2527972 | dataRider[i].timeRAC = 2716854
-n = 565 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2529442 | dataRider[i].timeRAC = 2716859
-n = 570 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2531394 | dataRider[i].timeRAC = 2716864
-n = 575 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2538940 | dataRider[i].timeRAC = 2716869
-n = 580 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2543315 | dataRider[i].timeRAC = 2716874
-n = 585 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2550041 | dataRider[i].timeRAC = 2716879
-n = 590 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2553658 | dataRider[i].timeRAC = 2716884
-n = 595 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2555775 | dataRider[i].timeRAC = 2716889
-n = 600 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2557661 | dataRider[i].timeRAC = 2716894
-n = 605 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2564044 | dataRider[i].timeRAC = 2716899
-n = 610 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2566342 | dataRider[i].timeRAC = 2716904
-n = 615 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2568790 | dataRider[i].timeRAC = 2716909
-n = 620 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2572313 | dataRider[i].timeRAC = 2716914
-n = 625 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2589554 | dataRider[i].timeRAC = 2716919
-n = 630 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2672603 | dataRider[i].timeRAC = 2716924
-n = 635 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2678264 | dataRider[i].timeRAC = 2716929
-n = 640 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2679613 | dataRider[i].timeRAC = 2716934
-n = 645 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2687033 | dataRider[i].timeRAC = 2716939
-n = 650 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2694609 | dataRider[i].timeRAC = 2716944
-n = 655 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2704701 | dataRider[i].timeRAC = 2716949
-n = 660 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716624 | dataRider[i].timeRAC = 2716954
-n = 665 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716627 | dataRider[i].timeRAC = 2716959
-n = 670 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716629 | dataRider[i].timeRAC = 2716964
-n = 675 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716632 | dataRider[i].timeRAC = 2716969
-n = 680 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716634 | dataRider[i].timeRAC = 2716974
-n = 685 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716637 | dataRider[i].timeRAC = 2716979
-n = 690 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716639 | dataRider[i].timeRAC = 2716984
-n = 695 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716642 | dataRider[i].timeRAC = 2716989
-n = 700 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716644 | dataRider[i].timeRAC = 2716994
-n = 705 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716647 | dataRider[i].timeRAC = 2716999
-n = 710 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716649 | dataRider[i].timeRAC = 2717004
-n = 715 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716652 | dataRider[i].timeRAC = 2717009
-n = 720 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716654 | dataRider[i].timeRAC = 2717014
-n = 725 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716657 | dataRider[i].timeRAC = 2717019
-n = 730 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716659 | dataRider[i].timeRAC = 2717024
-n = 735 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716662 | dataRider[i].timeRAC = 2717029
-n = 740 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716664 | dataRider[i].timeRAC = 2717034
-n = 745 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716667 | dataRider[i].timeRAC = 2717039
-n = 750 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716669 | dataRider[i].timeRAC = 2717044
-n = 755 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716672 | dataRider[i].timeRAC = 2717049
-n = 760 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716674 | dataRider[i].timeRAC = 2717054
-n = 765 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716677 | dataRider[i].timeRAC = 2717059
-n = 770 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716679 | dataRider[i].timeRAC = 2717064
-n = 775 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716682 | dataRider[i].timeRAC = 2717069
-n = 780 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716684 | dataRider[i].timeRAC = 2717074
-n = 785 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716687 | dataRider[i].timeRAC = 2717079
-n = 790 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716689 | dataRider[i].timeRAC = 2717084
-n = 795 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716692 | dataRider[i].timeRAC = 2717089
-n = 800 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716694 | dataRider[i].timeRAC = 2717094
-n = 805 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716697 | dataRider[i].timeRAC = 2717099
-n = 810 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716699 | dataRider[i].timeRAC = 2717104
-n = 815 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716702 | dataRider[i].timeRAC = 2717109
-n = 820 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716704 | dataRider[i].timeRAC = 2717114
-n = 825 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716707 | dataRider[i].timeRAC = 2717119
-n = 830 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716709 | dataRider[i].timeRAC = 2717124
-n = 835 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716712 | dataRider[i].timeRAC = 2717129
-n = 840 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716714 | dataRider[i].timeRAC = 2717134
-n = 845 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716717 | dataRider[i].timeRAC = 2717139
-n = 850 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716719 | dataRider[i].timeRAC = 2717144
-n = 855 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716722 | dataRider[i].timeRAC = 2717149
-n = 860 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716724 | dataRider[i].timeRAC = 2717154
-n = 865 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716727 | dataRider[i].timeRAC = 2717159
-n = 870 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716729 | dataRider[i].timeRAC = 2717164
-n = 875 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716732 | dataRider[i].timeRAC = 2717169
-n = 880 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716734 | dataRider[i].timeRAC = 2717174
-n = 885 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716737 | dataRider[i].timeRAC = 2717179
-n = 890 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716739 | dataRider[i].timeRAC = 2717184
-n = 895 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716742 | dataRider[i].timeRAC = 2717189
-n = 900 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716744 | dataRider[i].timeRAC = 2717194
-n = 905 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716747 | dataRider[i].timeRAC = 2717199
-n = 910 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716749 | dataRider[i].timeRAC = 2717204
-n = 915 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716752 | dataRider[i].timeRAC = 2717209
-n = 920 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716754 | dataRider[i].timeRAC = 2717214
-n = 925 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716757 | dataRider[i].timeRAC = 2717219
-n = 930 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716759 | dataRider[i].timeRAC = 2717224
-n = 935 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716762 | dataRider[i].timeRAC = 2717229
-n = 940 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716764 | dataRider[i].timeRAC = 2717234
-n = 945 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716767 | dataRider[i].timeRAC = 2717239
-n = 950 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716769 | dataRider[i].timeRAC = 2717244
-n = 955 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716772 | dataRider[i].timeRAC = 2717249
-n = 960 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716774 | dataRider[i].timeRAC = 2717254
-n = 965 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716777 | dataRider[i].timeRAC = 2717259
-n = 970 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716779 | dataRider[i].timeRAC = 2717264
-n = 975 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716782 | dataRider[i].timeRAC = 2717269
-n = 980 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716784 | dataRider[i].timeRAC = 2717274
-n = 985 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716787 | dataRider[i].timeRAC = 2717279
-n = 990 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716789 | dataRider[i].timeRAC = 2717284
-n = 995 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716792 | dataRider[i].timeRAC = 2717289
-n = 1000 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716794 | dataRider[i].timeRAC = 2717294
-n = 1005 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716797 | dataRider[i].timeRAC = 2717299
-n = 1010 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716799 | dataRider[i].timeRAC = 2717304
-n = 1015 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716802 | dataRider[i].timeRAC = 2717309
-n = 1020 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716804 | dataRider[i].timeRAC = 2717314
-n = 1025 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716807 | dataRider[i].timeRAC = 2717319
-n = 1030 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716809 | dataRider[i].timeRAC = 2717324
-n = 1035 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716812 | dataRider[i].timeRAC = 2717329
-n = 1040 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716814 | dataRider[i].timeRAC = 2717334
-n = 1045 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716817 | dataRider[i].timeRAC = 2717339
-n = 1050 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716819 | dataRider[i].timeRAC = 2717344
-n = 1055 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716822 | dataRider[i].timeRAC = 2717349
-n = 1060 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716824 | dataRider[i].timeRAC = 2717354
-n = 1065 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716827 | dataRider[i].timeRAC = 2717359
-n = 1070 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716829 | dataRider[i].timeRAC = 2717364
-n = 1075 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716832 | dataRider[i].timeRAC = 2717369
-n = 1080 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716834 | dataRider[i].timeRAC = 2717374
-n = 1085 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716837 | dataRider[i].timeRAC = 2717379
-n = 1090 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716839 | dataRider[i].timeRAC = 2717384
-n = 1095 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716842 | dataRider[i].timeRAC = 2717389
-n = 1100 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716844 | dataRider[i].timeRAC = 2717394
-n = 1105 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716847 | dataRider[i].timeRAC = 2717399
-n = 1110 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716849 | dataRider[i].timeRAC = 2717404
-n = 1115 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716852 | dataRider[i].timeRAC = 2717409
-n = 1120 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716854 | dataRider[i].timeRAC = 2717414
-n = 1125 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716857 | dataRider[i].timeRAC = 2717419
-n = 1130 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716859 | dataRider[i].timeRAC = 2717424
-n = 1135 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716862 | dataRider[i].timeRAC = 2717429
-n = 1140 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716864 | dataRider[i].timeRAC = 2717434
-n = 1145 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716867 | dataRider[i].timeRAC = 2717439
-n = 1150 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716869 | dataRider[i].timeRAC = 2717444
-n = 1155 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716872 | dataRider[i].timeRAC = 2717449
-n = 1160 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716874 | dataRider[i].timeRAC = 2717454
-n = 1165 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716877 | dataRider[i].timeRAC = 2717459
-n = 1170 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716879 | dataRider[i].timeRAC = 2717464
-n = 1175 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716882 | dataRider[i].timeRAC = 2717469
-n = 1180 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716884 | dataRider[i].timeRAC = 2717474
-n = 1185 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716887 | dataRider[i].timeRAC = 2717479
-n = 1190 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716889 | dataRider[i].timeRAC = 2717484
-n = 1195 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716892 | dataRider[i].timeRAC = 2717489
-n = 1200 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716894 | dataRider[i].timeRAC = 2717494
-n = 1205 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716897 | dataRider[i].timeRAC = 2717499
-n = 1210 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716899 | dataRider[i].timeRAC = 2717504
-n = 1215 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716902 | dataRider[i].timeRAC = 2717509
-n = 1220 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716904 | dataRider[i].timeRAC = 2717514
-n = 1225 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716907 | dataRider[i].timeRAC = 2717519
-n = 1230 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716909 | dataRider[i].timeRAC = 2717524
-n = 1235 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716912 | dataRider[i].timeRAC = 2717529
-n = 1240 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716914 | dataRider[i].timeRAC = 2717534
-n = 1245 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716917 | dataRider[i].timeRAC = 2717539
-n = 1250 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716919 | dataRider[i].timeRAC = 2717544
-n = 1255 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716922 | dataRider[i].timeRAC = 2717549
-n = 1260 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716924 | dataRider[i].timeRAC = 2717554
-n = 1265 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716927 | dataRider[i].timeRAC = 2717559
-n = 1270 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716929 | dataRider[i].timeRAC = 2717564
-n = 1275 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716932 | dataRider[i].timeRAC = 2717569
-n = 1280 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716934 | dataRider[i].timeRAC = 2717574
-n = 1285 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716937 | dataRider[i].timeRAC = 2717579
-n = 1290 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716939 | dataRider[i].timeRAC = 2717584
-n = 1295 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716942 | dataRider[i].timeRAC = 2717589
-n = 1300 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716944 | dataRider[i].timeRAC = 2717594
-n = 1305 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716947 | dataRider[i].timeRAC = 2717599
-n = 1310 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716949 | dataRider[i].timeRAC = 2717604
-n = 1315 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716952 | dataRider[i].timeRAC = 2717609
-n = 1320 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716954 | dataRider[i].timeRAC = 2717614
-n = 1325 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716957 | dataRider[i].timeRAC = 2717619
-n = 1330 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716959 | dataRider[i].timeRAC = 2717624
-n = 1335 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716962 | dataRider[i].timeRAC = 2717629
-n = 1340 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716964 | dataRider[i].timeRAC = 2717634
-n = 1345 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716967 | dataRider[i].timeRAC = 2717639
-n = 1350 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716969 | dataRider[i].timeRAC = 2717644
-n = 1355 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716972 | dataRider[i].timeRAC = 2717649
-n = 1360 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716974 | dataRider[i].timeRAC = 2717654
-n = 1365 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716977 | dataRider[i].timeRAC = 2717659
-n = 1370 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716979 | dataRider[i].timeRAC = 2717664
-n = 1375 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716982 | dataRider[i].timeRAC = 2717669
-n = 1380 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716984 | dataRider[i].timeRAC = 2717674
-n = 1385 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716987 | dataRider[i].timeRAC = 2717679
-n = 1390 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716989 | dataRider[i].timeRAC = 2717684
-n = 1395 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716992 | dataRider[i].timeRAC = 2717689
-n = 1400 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716994 | dataRider[i].timeRAC = 2717694
-n = 1405 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716997 | dataRider[i].timeRAC = 2717699
-n = 1410 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2716999 | dataRider[i].timeRAC = 2717704
-n = 1415 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717002 | dataRider[i].timeRAC = 2717709
-n = 1420 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717004 | dataRider[i].timeRAC = 2717714
-n = 1425 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717007 | dataRider[i].timeRAC = 2717719
-n = 1430 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717009 | dataRider[i].timeRAC = 2717724
-n = 1435 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717012 | dataRider[i].timeRAC = 2717729
-n = 1440 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717014 | dataRider[i].timeRAC = 2717734
-n = 1445 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717017 | dataRider[i].timeRAC = 2717739
-n = 1450 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717019 | dataRider[i].timeRAC = 2717744
-n = 1455 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717022 | dataRider[i].timeRAC = 2717749
-n = 1460 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717024 | dataRider[i].timeRAC = 2717754
-n = 1465 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717027 | dataRider[i].timeRAC = 2717759
-n = 1470 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717029 | dataRider[i].timeRAC = 2717764
-n = 1475 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717032 | dataRider[i].timeRAC = 2717769
-n = 1480 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717034 | dataRider[i].timeRAC = 2717774
-n = 1485 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717037 | dataRider[i].timeRAC = 2717779
-n = 1490 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717039 | dataRider[i].timeRAC = 2717784
-n = 1495 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717042 | dataRider[i].timeRAC = 2717789
-n = 1500 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717044 | dataRider[i].timeRAC = 2717794
-n = 1505 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717047 | dataRider[i].timeRAC = 2717799
-n = 1510 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717049 | dataRider[i].timeRAC = 2717804
-n = 1515 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717052 | dataRider[i].timeRAC = 2717809
-n = 1520 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717054 | dataRider[i].timeRAC = 2717814
-n = 1525 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717057 | dataRider[i].timeRAC = 2717819
-n = 1530 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717059 | dataRider[i].timeRAC = 2717824
-n = 1535 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717062 | dataRider[i].timeRAC = 2717829
-n = 1540 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717064 | dataRider[i].timeRAC = 2717834
-n = 1545 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717067 | dataRider[i].timeRAC = 2717839
-n = 1550 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717069 | dataRider[i].timeRAC = 2717844
-n = 1555 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717072 | dataRider[i].timeRAC = 2717849
-n = 1560 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717074 | dataRider[i].timeRAC = 2717854
-n = 1565 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717077 | dataRider[i].timeRAC = 2717859
-n = 1570 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717079 | dataRider[i].timeRAC = 2717864
-n = 1575 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717082 | dataRider[i].timeRAC = 2717869
-n = 1580 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717084 | dataRider[i].timeRAC = 2717874
-n = 1585 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717087 | dataRider[i].timeRAC = 2717879
-n = 1590 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717089 | dataRider[i].timeRAC = 2717884
-n = 1595 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717092 | dataRider[i].timeRAC = 2717889
-n = 1600 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717094 | dataRider[i].timeRAC = 2717894
-n = 1605 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717097 | dataRider[i].timeRAC = 2717899
-n = 1610 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717099 | dataRider[i].timeRAC = 2717904
-n = 1615 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717102 | dataRider[i].timeRAC = 2717909
-n = 1620 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717104 | dataRider[i].timeRAC = 2717914
-n = 1625 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717107 | dataRider[i].timeRAC = 2717919
-n = 1630 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717109 | dataRider[i].timeRAC = 2717924
-n = 1635 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717112 | dataRider[i].timeRAC = 2717929
-n = 1640 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717114 | dataRider[i].timeRAC = 2717934
-n = 1645 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717117 | dataRider[i].timeRAC = 2717939
-n = 1650 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717119 | dataRider[i].timeRAC = 2717944
-n = 1655 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717122 | dataRider[i].timeRAC = 2717949
-n = 1660 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717124 | dataRider[i].timeRAC = 2717954
-n = 1665 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717127 | dataRider[i].timeRAC = 2717959
-n = 1670 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717129 | dataRider[i].timeRAC = 2717964
-n = 1675 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717132 | dataRider[i].timeRAC = 2717969
-n = 1680 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717134 | dataRider[i].timeRAC = 2717974
-n = 1685 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717137 | dataRider[i].timeRAC = 2717979
-n = 1690 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717139 | dataRider[i].timeRAC = 2717984
-n = 1695 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717142 | dataRider[i].timeRAC = 2717989
-n = 1700 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717144 | dataRider[i].timeRAC = 2717994
-n = 1705 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717147 | dataRider[i].timeRAC = 2717999
-n = 1710 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717149 | dataRider[i].timeRAC = 2718004
-n = 1715 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717152 | dataRider[i].timeRAC = 2718009
-n = 1720 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717154 | dataRider[i].timeRAC = 2718014
-n = 1725 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717157 | dataRider[i].timeRAC = 2718019
-n = 1730 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717159 | dataRider[i].timeRAC = 2718024
-n = 1735 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717162 | dataRider[i].timeRAC = 2718029
-n = 1740 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717164 | dataRider[i].timeRAC = 2718034
-n = 1745 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717167 | dataRider[i].timeRAC = 2718039
-n = 1750 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717169 | dataRider[i].timeRAC = 2718044
-n = 1755 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717172 | dataRider[i].timeRAC = 2718049
-n = 1760 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717174 | dataRider[i].timeRAC = 2718054
-n = 1765 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717177 | dataRider[i].timeRAC = 2718059
-n = 1770 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717179 | dataRider[i].timeRAC = 2718064
-n = 1775 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717182 | dataRider[i].timeRAC = 2718069
-n = 1780 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717184 | dataRider[i].timeRAC = 2718074
-n = 1785 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717187 | dataRider[i].timeRAC = 2718079
-n = 1790 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717189 | dataRider[i].timeRAC = 2718084
-n = 1795 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717192 | dataRider[i].timeRAC = 2718089
-n = 1800 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717194 | dataRider[i].timeRAC = 2718094
-n = 1805 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717197 | dataRider[i].timeRAC = 2718099
-n = 1810 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717199 | dataRider[i].timeRAC = 2718104
-n = 1815 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717202 | dataRider[i].timeRAC = 2718109
-n = 1820 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717204 | dataRider[i].timeRAC = 2718114
-n = 1825 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717207 | dataRider[i].timeRAC = 2718119
-n = 1830 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717209 | dataRider[i].timeRAC = 2718124
-n = 1835 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717212 | dataRider[i].timeRAC = 2718129
-n = 1840 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717214 | dataRider[i].timeRAC = 2718134
-n = 1845 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717217 | dataRider[i].timeRAC = 2718139
-n = 1850 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717219 | dataRider[i].timeRAC = 2718144
-n = 1855 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717222 | dataRider[i].timeRAC = 2718149
-n = 1860 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717224 | dataRider[i].timeRAC = 2718154
-n = 1865 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717227 | dataRider[i].timeRAC = 2718159
-n = 1870 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717229 | dataRider[i].timeRAC = 2718164
-n = 1875 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717232 | dataRider[i].timeRAC = 2718169
-n = 1880 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717234 | dataRider[i].timeRAC = 2718174
-n = 1885 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717237 | dataRider[i].timeRAC = 2718179
-n = 1890 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717239 | dataRider[i].timeRAC = 2718184
-n = 1895 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717242 | dataRider[i].timeRAC = 2718189
-n = 1900 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717244 | dataRider[i].timeRAC = 2718194
-n = 1905 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717247 | dataRider[i].timeRAC = 2718199
-n = 1910 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717249 | dataRider[i].timeRAC = 2718204
-n = 1915 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717252 | dataRider[i].timeRAC = 2718209
-n = 1920 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717254 | dataRider[i].timeRAC = 2718214
-n = 1925 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717257 | dataRider[i].timeRAC = 2718219
-n = 1930 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717259 | dataRider[i].timeRAC = 2718224
-n = 1935 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717262 | dataRider[i].timeRAC = 2718229
-n = 1940 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717264 | dataRider[i].timeRAC = 2718234
-n = 1945 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717267 | dataRider[i].timeRAC = 2718239
-n = 1950 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717269 | dataRider[i].timeRAC = 2718244
-n = 1955 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717272 | dataRider[i].timeRAC = 2718249
-n = 1960 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717274 | dataRider[i].timeRAC = 2718254
-n = 1965 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717277 | dataRider[i].timeRAC = 2718259
-n = 1970 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717279 | dataRider[i].timeRAC = 2718264
-n = 1975 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717282 | dataRider[i].timeRAC = 2718269
-n = 1980 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717284 | dataRider[i].timeRAC = 2718274
-n = 1985 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717287 | dataRider[i].timeRAC = 2718279
-n = 1990 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717289 | dataRider[i].timeRAC = 2718284
-n = 1995 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717292 | dataRider[i].timeRAC = 2718289
-n = 2000 | dataRider[0].timeRAC = 1446314 | dataRider[i/2].timeRAC = 2717294 | dataRider[i].timeRAC = 2718294
-
 Kompleksitas Pencarian Data Iterative
-@653100 #2096600
-@635400 #2148700
-@699000 #2457500
-@550500 #4842200
-@635000 #3376600
-@554100 #2218100
-@1495600 #3662200
-@692700 #3565600
-@1141400 #3379400
-@719300 #3979500
-@625300 #5106000
-@635200 #3445900
-@315300 #4970400
-@734000 #3990000
-@557700 #4055900
-@555600 #3884300
-@557500 #4031800
-@527100 #4026200
-@547000 #3822900
-@549000 #3721500
-@532200 #5109100
-@530200 #4093500
-@544200 #4369100
-@705400 #4724300
-@607700 #3859400
-@668100 #4848100
-@441100 #4494300
-@981700 #5927500
-@660300 #4622900
-@546300 #4253600
-@528500 #4832400
-@509900 #4233800
-@529200 #4440300
-@584200 #4896500
-@764400 #4665400
-@572600 #4249500
-@621300 #4831800
-@534100 #4230600
-@536500 #4212400
-@540200 #4308500
-@514000 #4289300
-@696600 #4003800
-@528900 #4223600
-@546500 #4300500
-@536700 #4448500
-@561800 #5081300
-@567600 #3975900
-@535000 #4299000
-@543800 #7400000
-@748600 #4711300
-@544600 #4603700
-@562900 #5265900
-@688700 #5459400
-@540200 #4947100
-@513500 #5252800
-@643100 #5526400
-@597000 #5490700
-@652200 #5339500
-@562300 #6153600
-@552200 #4969600
-@591700 #4721000
-@550700 #4951200
-@665400 #5265400
-@605400 #4324400
-@2315700 #5164600
-@557600 #5810500
-@629800 #6166100
-@548700 #5315700
-@538600 #4705500
-@538300 #6090400
-@551200 #4758200
-@549600 #4792000
-@532600 #4278500
-@648400 #5521200
-@524600 #4876000
-@543800 #5464200
-@1700700 #4527900
-@533700 #5873500
-@543400 #4726700
-@614200 #5476700
-@550200 #8378400
-@527900 #6113700
-@534500 #5421800
-@547000 #4997900
-@545800 #4318300
-@538500 #10696200
-@530200 #5236900
-@524400 #4926800
-@1113300 #4895700
-@571600 #5281200
-@545600 #5772400
-@511600 #4627400
-@526300 #4742500
-@524400 #4974800
-@529500 #4778000
-@605500 #4517100
-@754400 #4736400
-@544600 #4833700
-@2436200 #8270400
-@525400 #4604300
-@617300 #4946700
-@545000 #5293000
-@553100 #5631700
-@531700 #6592800
-@519600 #5520200
-@523300 #5749100
-@569400 #5302100
-@532600 #5866100
-@568100 #5799700
-@656500 #6146400
-@594000 #5416600
-@639800 #5724100
-@643800 #5847200
-@628900 #5529500
-@534700 #5099400
-@527700 #5456000
-@794400 #5523300
-@557800 #5695400
-@524600 #5385000
-@608600 #5483400
-@517500 #5567300
-@540000 #5449900
-@573600 #5449700
-@515300 #5863300
-@541800 #5113900
-@532500 #5740100
-@516200 #6058100
-@510300 #5767000
-@562400 #5501600
-@531800 #8320300
-@517300 #5905200
-@576000 #5589100
-@552700 #5706200
-@519700 #5330500
-@520500 #5600600
-@527800 #5213300
-@522500 #5421000
-@528900 #5275100
-@545600 #5310400
-@509400 #5540800
-@529800 #5499700
-@534800 #5230600
-@515500 #5373200
-@530500 #5299700
-@554600 #5599700
-@510800 #5563300
-@521800 #5131300
-@543900 #5224900
-@528000 #5601100
-@511100 #5178700
-@515700 #5443700
-@412400 #5342500
-@555700 #7017900
-@558200 #5581400
-@556400 #7187900
-@525600 #5538300
-@609700 #5965100
-@602700 #5896900
-@535600 #5746700
-@587100 #5483800
-@523800 #5294800
-@369700 #5742600
-@342100 #5262500
-@526600 #5842400
-@587000 #5254200
-@522900 #5366900
-@544900 #5272200
-@591100 #5979400
-@903800 #5335900
-@524200 #6825600
-@1187400 #7282300
-@525200 #5222600
-@529900 #5672100
-@546100 #5442000
-@527100 #5606000
-@547400 #5661900
-@609700 #8259100
-@611100 #5234800
-@558200 #6224700
-@542200 #5716100
-@558700 #5717500
-@556000 #5675800
-@536400 #5359600
-@563000 #5443100
-@636100 #6395200
-@541100 #5277200
-@536900 #5169500
-@512800 #5663000
-@548600 #5616400
-@539800 #5181400
-@690700 #5577600
-@574200 #5237600
-@527900 #5810500
-@541300 #5447500
-@546900 #5287200
-@313500 #6519200
-@516700 #5757400
-@522300 #6424600
-@539000 #5654100
-@525600 #5169100
-@522500 #5203100
-@537300 #5221400
-@534200 #5992100
-@659000 #5694600
-@590800 #6283000
-@640900 #6150600
-@464900 #5746300
-@525900 #5646600
-@1270800 #5949100
-@545700 #6496600
-@572900 #6358000
-@526700 #5768200
-@524600 #6066000
-@626600 #8239300
-@526700 #8244200
-@659400 #8248500
-@524300 #5882200
-@479100 #6052900
-@604800 #8304200
-@546300 #5735700
-@524000 #5591100
-@563000 #5721400
-@539800 #7824800
-@529900 #5877400
-@608700 #5758600
-@528900 #7079200
-@525700 #7967300
-@528800 #6356600
-@548200 #9214300
-@562400 #9759200
-@727800 #8238400
-@613600 #6535800
-@615900 #6617400
-@518000 #6231800
-@546700 #6922400
-@524800 #6261200
-@552500 #5791100
-@518600 #8046700
-@517400 #6948200
-@523200 #7326100
-@550500 #5572300
-@754500 #5932500
-@540900 #6447200
-@1343100 #6973000
-@556500 #6118200
-@518900 #5746600
-@537400 #6102300
-@647600 #7374600
-@591100 #6924500
-@510700 #9423900
-@565900 #6069200
-@546300 #8018500
-@552100 #6303200
-@532900 #7122600
-@631500 #9004700
-@518500 #8081000
-@603800 #7581000
-@556000 #5899700
-@612500 #6599100
-@540900 #5919200
-@575400 #6583800
-@541700 #6704700
-@2045700 #8795800
-@636200 #6350300
-@559300 #12287400
-@532000 #11658800
-@595000 #6629000
-@674100 #6272700
-@525200 #6431400
-@566900 #6838100
-@622900 #7001000
-@580600 #6806000
-@610100 #6289300
-@519100 #6392700
-@645600 #6551000
-@658700 #6928100
-@539900 #6529300
-@1161700 #6678200
-@725200 #5854800
-@679500 #6340800
-@529200 #6875600
-@536300 #5990500
-@554100 #5817500
-@535000 #5639300
-@610200 #6635700
-@632200 #6602600
-@630300 #6534800
-@543900 #6208800
-@613700 #6305300
-@557400 #6572100
-@524300 #5801500
-@585100 #6448300
-@531500 #6465600
-@540800 #6565200
-@632500 #6930400
-@628900 #6523200
-@663200 #6035000
-@517900 #6056500
-@561500 #6095600
-@560000 #5713700
-@527200 #5993800
-@543100 #7988100
-@570800 #6313200
-@624200 #6686600
-@1037600 #5792100
-@780700 #8664100
-@315000 #6118300
-@646500 #8744300
-@547800 #6061300
-@565600 #6920600
-@526200 #6199900
-@524700 #6170000
-@545000 #6332100
-@548900 #6155800
-@520200 #5744600
-@545700 #7568700
-@532300 #5714800
-@726800 #5639600
-@529500 #5552500
-@547500 #7458300
-@525700 #6143500
-@747800 #6194500
-@573100 #5932800
-@595000 #6090300
-@510200 #9212100
-@546200 #6699800
-@711000 #6330700
-@513600 #6053900
-@441300 #6109200
-@547700 #5989000
-@527300 #5648900
-@543800 #6277000
-@529000 #6458800
-@539900 #6201700
-@530200 #7018300
-@533200 #5955600
-@525300 #5922800
-@528100 #5844000
-@526800 #6035600
-@525900 #6048400
-@622100 #6003700
-@526400 #5751000
-@533400 #5952800
-@558100 #5949000
-@525700 #6163100
-@562600 #7182200
-@535700 #6048000
-@511900 #5756400
-@550100 #6640300
-@763000 #5997800
-@628000 #6038700
-@544800 #5835800
-@528400 #5724400
-@528600 #6137200
-@565300 #5800200
-@630300 #5919000
-@542100 #6880400
-@531900 #5877600
-@531100 #6062600
-@549100 #6489500
-@511300 #5984100
-@632700 #6127800
-@525000 #6003500
-@1013100 #5886600
-@531600 #5733700
-@556800 #5867500
-@529300 #5696600
-@533500 #5796700
-@559800 #5911000
-@699400 #9212800
-@602400 #6866200
-@317900 #7322900
-@532700 #5892900
-@549300 #6324800
-@557600 #9323100
-@547000 #8246400
-@528400 #5699200
-@614200 #5815000
-@975100 #6103500
-@908600 #7895900
-@562600 #9002700
-@551500 #6971700
-@543300 #9391000
-@548800 #6717300
-@579100 #7584700
-@545900 #10259300
-@591100 #7928100
-@534500 #11676600
-@1499600 #8046100
-@555100 #8324200
-@767400 #11528800
-@563700 #6996100
-@520900 #6986800
-@1160200 #6368700
-@762900 #6928300
-@561200 #7126600
-@526900 #6503000
-@532400 #5787700
-@542300 #6088100
-@517700 #5909900
-
+!1053300 @521600 $1305800
+!1596200 @514700 $2053700
+!2263600 @303800 $1887800
+!2092400 @527200 $2606500
+!2049300 @602900 $2594100
+!2090100 @513500 $2816900
+!2612100 @526200 $3129200
+!2684400 @524600 $3140400
+!2811200 @524100 $3134500
+!2625400 @520000 $3235900
+!2590000 @522100 $3133100
+!2591500 @521000 $3128000
+!3296400 @521600 $3619000
+!3116800 @521400 $3636000
+!3184800 @522600 $3628900
+!3246800 @529900 $3648000
+!3294400 @523600 $3647700
+!3122100 @522600 $3659700
+!3160800 @521500 $3815200
+!3117000 @523200 $4275000
+!3138000 @520900 $3794700
+!3112700 @523100 $3733700
+!3167000 @508800 $4506900
+!3111700 @522800 $3786000
+!3139800 @520300 $3502800
+!3632500 @523000 $4313200
+!3618100 @519900 $4211000
+!3637800 @620500 $4210200
+!3631100 @519900 $4160500
+!3771200 @526600 $4149800
+!3651900 @534500 $4175500
+!3657800 @533700 $4168800
+!3654600 @533900 $4187200
+!3657500 @523100 $4164200
+!3655200 @527800 $4178700
+!3662400 @530600 $4328100
+!3664700 @527100 $4409000
+!3652600 @613600 $4191800
+!3936400 @530600 $4191800
+!3679100 @528200 $4179800
+!3682200 @532500 $4185000
+!3691800 @535500 $4181800
+!3681000 @535400 $4197700
+!3699700 @531400 $4182300
+!8709100 @997700 $4857400
+!3695100 @520000 $5873900
+!3615300 @530100 $4949900
+!5140100 @525600 $4190000
+!3831000 @523300 $4157000
+!3603800 @533800 $4192500
+!4206800 @531600 $4199500
+!4249400 @531000 $4737600
+!4171900 @532600 $4708100
+!4189200 @522800 $4681600
+!4164500 @525100 $4694300
+!4195100 @528900 $4736500
+!4193900 @524900 $4714500
+!4193900 @845600 $5123500
+!4163700 @526000 $4658800
+!4161900 @521400 $4764400
+!4162700 @523800 $4590500
+!4277800 @523400 $4697000
+!4189100 @528100 $4690800
+!4200700 @529000 $4730200
+!4185900 @526700 $5601200
+!4303400 @526700 $4712700
+!4411600 @522300 $4674800
+!4148700 @520500 $4682000
+!4166100 @566400 $4659200
+!4204600 @526700 $4827600
+!4422600 @524500 $4704500
+!4256300 @524000 $4709400
+!4160700 @522500 $4745300
+!4191700 @521500 $4678200
+!4133600 @530200 $4712900
+!4138500 @526300 $4709600
+!4185800 @523600 $5452600
+!4350800 @525500 $4694300
+!4225300 @524900 $4703500
+!4185700 @529000 $4828600
+!4192800 @523800 $4583500
+!4180200 @523900 $4722300
+!4215100 @532500 $4715300
+!4175700 @517500 $4707200
+!4208900 @527800 $5490700
+!5694700 @543900 $4872200
+!4193300 @529500 $4687300
+!4196000 @527300 $4525000
+!4138600 @600300 $4735600
+!4327300 @523300 $4722700
+!4170200 @528300 $4720600
+!7801100 @695000 $7405100
+!4036400 @526000 $4718100
+!4202300 @523600 $4708900
+!7321100 @682300 $4793900
+!3949300 @524500 $4661400
+!4200500 @523100 $4693200
+!4187800 @519100 $4683900
+!4185200 @523000 $4772200
+!4244000 @524200 $4720900
+!4182300 @523600 $4708700
+!4127900 @525000 $4672100
+!4683100 @522900 $5249400
+!4804600 @525000 $5214900
+!4729500 @519500 $5243400
+!4663400 @529300 $5469700
+!4556400 @526000 $5203200
+!4723100 @521800 $5164200
+!8748900 @521800 $5164200
+!4733600 @507200 $5220400
+!4670500 @548800 $5087200
+!4722300 @538200 $5266900
+!4752500 @532600 $5441600
+!4895300 @524800 $5251100
+!4745400 @526100 $5393000
+!6309100 @530300 $5506200
+!4805200 @512100 $5211600
+!4718600 @525900 $5239300
+!4555200 @521600 $5243300
+!6293400 @518800 $7902900
+!4769500 @520000 $5170900
+!4694900 @527200 $5295400
+!5727100 @527900 $5212700
+!4677100 @521100 $5197400
+!4666500 @519800 $5255000
+!4809800 @520400 $5245600
+!4663300 @520200 $5185900
+!4707600 @650100 $5221300
+!4666200 @520400 $5209800
+!4666600 @520500 $5296500
+!4750300 @521300 $5189600
+!4658500 @521100 $5208500
+!4660200 @520400 $5343700
+!4681000 @523800 $5195700
+!4658500 @522900 $5198800
+!4658600 @523500 $5486100
+!4674300 @534000 $5195100
+!4660500 @522800 $5254600
+!4476800 @526300 $5197600
+!4657500 @522700 $5205200
+!4674300 @509300 $5179000
+!5079400 @530200 $5184900
+!4738000 @520300 $5192700
+!4660300 @724800 $5196000
+!4666600 @524400 $5195900
+!4696200 @520500 $5471900
+!4722800 @521100 $5236800
+!4657600 @521200 $5206800
+!4657400 @520800 $5262600
+!4757400 @520500 $5235400
+!4667900 @522300 $5295300
+!4733100 @532900 $5236400
+!4701100 @520500 $5199200
+!4705100 @528400 $5907900
+!4834900 @526700 $5227500
+!4718400 @524400 $5221200
+!4779300 @520600 $5221800
+!4788500 @521900 $5710000
+!4692900 @523000 $5337500
+!5078800 @534900 $5281100
+!4700800 @528600 $5282800
+!4708900 @529800 $5332900
+!4760600 @528400 $5203100
+!4667300 @523000 $5264300
+!4657200 @521700 $5555800
+!5177500 @557600 $5192600
+!4754300 @529700 $5289300
+!7789500 @529700 $5319400
+!4719100 @542500 $5279600
+!4734200 @368400 $5267200
+!4770600 @528800 $5270800
+!4715200 @542800 $5542800
+!4991500 @533900 $5217400
+!4696700 @521300 $5439500
+!4987100 @526400 $5226600
+!4694500 @552700 $5173800
+!4714600 @521600 $5411000
+!4616800 @533500 $5472300
+!4866200 @527400 $5182300
+!4669400 @519500 $5179000
+!4674800 @522800 $5287900
+!4735200 @520900 $5184700
+!4730900 @529900 $5281800
+!4702000 @523800 $5311600
+!4722300 @528800 $5227400
+!4728600 @527200 $5314100
+!4878400 @527100 $5231400
+!4716900 @533000 $5219700
+!4716700 @523800 $5336600
+!4790900 @530700 $5232900
+!4712100 @533200 $5233200
+!4693900 @523400 $7654300
+!4850900 @525800 $5213200
+!4721700 @528500 $5255400
+!4711400 @572700 $5291700
+!4662400 @521900 $5191600
+!4672500 @522800 $5291000
+!4767100 @521500 $5181200
+!4673000 @523100 $5181900
+!4673900 @523000 $5766200
+!4809000 @508800 $5195800
+!4674700 @509300 $5486900
+!7013100 @534300 $5244400
+!4694900 @523600 $5259500
+!5691400 @531400 $5802000
+!5219600 @521900 $8809400
+!5346100 @524000 $5506100
+!5212600 @522500 $6538400
+!5235000 @523000 $5739900
+!5213600 @522700 $5886200
+!5225300 @532000 $5747600
+!5230800 @657500 $5889900
+!5315000 @521100 $5714900
+!5180200 @523200 $5835800
+!5369200 @520200 $5703200
+!5194400 @523400 $5878100
+!5274300 @523300 $5766000
+!5211400 @532400 $7596600
+!5252800 @524400 $5747000
+!5228800 @529600 $5758400
+!5205600 @525100 $5752800
+!6862500 @417600 $5705200
+!5194700 @509900 $5919000
+!5329300 @530400 $5819000
+!5262100 @521700 $5779700
+!5514600 @531200 $5745500
+!5282300 @528900 $5952700
+!5380200 @520400 $5740000
+!7538500 @526200 $5827900
+!5280800 @535100 $5789000
+!5472000 @515300 $5722800
+!5177800 @525900 $5754200
+!5250700 @526700 $5785300
+!5252700 @522600 $5931900
+!5454600 @523400 $5719500
+!5197200 @523100 $5908100
+!5298900 @525900 $5751800
+!5232400 @525700 $5888200
+!5301100 @523500 $5749500
+!5218500 @527500 $5807500
+!5251400 @528800 $5774400
+!5240000 @523200 $5808200
+!5715900 @523400 $5776500
+!5230300 @525400 $5874500
+!5259400 @523500 $5755700
+!8027600 @536300 $5751000
+!5744900 @523000 $5777100
+!5331100 @523900 $5734400
+!5226900 @508600 $5808700
+!5372400 @529200 $5781200
+!5240500 @529300 $5614500
+!5244400 @519600 $5750500
+!6521300 @526800 $5730100
+!5212100 @523600 $6553500
+!5421100 @530800 $5756100
+!5182900 @521800 $6907600
+!5046200 @523600 $5696100
+!5193700 @523100 $6104000
+!5492600 @526200 $5700800
+!5209200 @526600 $5587300
+!5452600 @532900 $5751900
+!5241600 @522600 $5851500
+!5779500 @524100 $5792500
+!5223600 @524100 $5806100
+!5448000 @521400 $5739800
+!5238700 @525000 $5911900
+!5288800 @523600 $5760600
+!5222400 @520400 $5761900
+!5254300 @530900 $5744200
+!5252100 @528000 $5860100
+!5234300 @523800 $5777500
+!5234800 @523500 $5806000
+!5253300 @533700 $5735700
+!5244300 @524900 $5909700
+!5276800 @524000 $5770100
+!5217500 @524000 $5815200
+!5221200 @532500 $5745100
+!5234000 @524900 $5959100
+!5797400 @524800 $5801500
+!5451000 @530500 $5919500
+!5200200 @526200 $6075700
+!5251700 @514400 $5721600
+!8844500 @591300 $5792600
+!5351500 @526700 $5930500
+!5414100 @514700 $5677000
+!5211800 @515300 $5754100
+!5392400 @538600 $8810400
+!5229500 @789000 $6375000
+!5212900 @525200 $5841300
+!5227600 @525600 $5771600
+!5232400 @525400 $5951100
+!5248300 @530400 $5699600
+!5217700 @520700 $5846900
+!5321600 @522800 $5754800
+!5194200 @522700 $7005000
+!5313900 @509300 $5758400
+!7098100 @556300 $6590800
+!5364300 @524900 $5684300
+!5190800 @523300 $5511200
+!5230800 @532300 $5776600
+!5231700 @528400 $5648900
+!5488000 @532800 $5736900
+!5190900 @509400 $5827100
+!5290900 @520400 $5712900
+!5206200 @522900 $5931600
+!5248700 @523800 $5692600
+!5194200 @522800 $5833400
+!5301800 @522600 $5714100
+!5180400 @522900 $5814700
+!5295800 @527800 $5761900
+!5201900 @508600 $5788400
+!5202500 @521000 $5722100
+!5225300 @520500 $5801300
+!5193600 @522600 $5737400
+!5193800 @523300 $5735100
+!5189500 @520000 $5718900
+!5221000 @522600 $5796400
+!5181100 @523000 $5782700
+!5192300 @523100 $5893500
+!5329800 @519700 $5764100
+!5233600 @595700 $5774500
+!5256000 @532400 $5749400
+!6534700 @342200 $6347500
+!5187400 @520500 $5723000
+!5237500 @680500 $5788300
+!5264600 @528800 $5744300
+!5539800 @516300 $5802400
+!5186200 @520300 $5723500
+!5374100 @531600 $5767100
+!5214800 @526200 $5742300
+!5653700 @562200 $5770900
+!5653700 @552100 $6120800
+!5190300 @540300 $5729200
+!5533900 @545600 $5738100
+!5243600 @538700 $5828300
+!5373500 @528000 $5742100
+!5249500 @528200 $6890500
+!5236200 @521200 $5760100
+!5287400 @552500 $8244600
+!5285000 @525600 $5761600
+!5204400 @520800 $5709300
+!5204800 @521000 $5725600
+!5246000 @523400 $5714400
+!5204500 @532500 $5724300
+!5188700 @523200 $5713900
+!5189800 @509400 $5786100
+!5227600 @523700 $5808700
+!5247500 @528800 $5873100
+!5255900 @528600 $5755900
+!5249800 @524200 $5885800
+!5225900 @527000 $5814000
+!5244700 @528600 $6314600
+!5230300 @523200 $5757000
+!5257000 @521500 $5713400
+!5197100 @520300 $5711200
+!5331100 @525500 $5707800
+!5193400 @523200 $5744100
+!5248000 @524900 $5715400
+!5210700 @521900 $5512400
+!5765200 @527800 $5723300
+!5203400 @520400 $5805800
+!5242700 @529000 $5715800
+!5189600 @520800 $5798300
+!5243300 @523000 $5717300
+!5233100 @520700 $5771600
+!5346700 @510700 $5733600
+!5181500 @523300 $6163400
+!5433800 @522100 $5704900
+!5230400 @523000 $5770400
+!5282400 @521500 $5742700
+!5181300 @520400 $5955000
+!5372200 @526000 $5710400
+!5319000 @530200 $5761000
+!6300700 @524100 $5749500
+!5301000 @522700 $5758100
+!5195800 @509600 $5727300
+!5363300 @533500 $5716900
+!5182500 @522900 $5727600
+!5274500 @521900 $5708700
+!5192800 @523200 $5863500
+!5155800 @522600 $5713300
+!5182500 @522600 $5885900
+!5068800 @529200 $5905300
+!5191600 @522700 $5784400
+!5252800 @520600 $5718800
+!5181400 @523100 $5718800
+!5220400 @523500 $6421300
+!5087100 @523800 $5742600
+!5242000 @530800 $5761500
+!5218600 @528800 $5778500
+!5291600 @524700 $5556900
+!5228700 @525100 $5800300
+!5251600 @526500 $5852400
+!5253100 @526000 $5735600
+!5243100 @524700 $5934100
+!5280300 @511100 $5784200
+!5406700 @523000 $5793000
+!5179700 @520500 $5833400
+!5416800 @528900 $5719300
+!5183600 @520900 $5410600
 Kompleksitas Pencarian Data Recursive
-!1099600 @724800 #2045900
-!1734800 @561300 #2430900
-!3345200 @513500 #1938200
-!3614000 @2292200 #3819900
-!2684100 @1021500 #4092800
-!2709800 @843700 #3328800
-!3425600 @629100 #4815100
-!2965700 @633300 #3712800
-!2870200 @540300 #4309000
-!3549600 @717200 #4341500
-!2813500 @543100 #3215600
-!3134400 @531400 #3258600
-!3248600 @551600 #3938100
-!4495700 @562600 #4132100
-!3264400 @542400 #3827200
-!3441300 @636300 #4572800
-!4052800 @725000 #4147200
-!3215200 @553200 #4010800
-!3750100 @619000 #4460700
-!3676100 @1033900 #4099100
-!3433700 @655000 #4090700
-!3617300 @626900 #4131600
-!3714800 @521500 #6090200
-!3657600 @570000 #4503200
-!3491800 @576300 #4576100
-!4113900 @571200 #4492400
-!3884600 @530200 #5609800
-!3337100 @550400 #4361200
-!3931500 @537200 #6098300
-!3923100 @594000 #6524400
-!3880900 @575100 #4366400
-!3827200 @531700 #4247500
-!3902500 @750200 #4773400
-!3861000 @518700 #4331400
-!3880600 @546700 #4255800
-!3739900 @531200 #5233000
-!4750700 @1049600 #4862900
-!3953800 @591800 #4369500
-!3737400 @559400 #4471000
-!4085000 @563900 #4738300
-!3710300 @607100 #3826100
-!4007300 @528700 #5141900
-!4616800 @516500 #4305300
-!3930400 @549800 #4552200
-!3859900 @594400 #5027000
-!3888100 @536500 #4237900
-!4301800 @546100 #4167900
-!3761100 @529000 #4934800
-!4653100 @543600 #7213700
-!4616600 @632900 #4680800
-!4931400 @662600 #4832900
-!4897800 @661700 #5850400
-!4760300 @693400 #5618200
-!4870200 @674300 #5092600
-!4996100 @1489700 #5633400
-!4516300 @519800 #5576100
-!4951700 @661400 #5686900
-!4413200 @1138500 #6379300
-!4510900 @545600 #5133100
-!4529600 @556000 #4986700
-!4594900 @551700 #5667800
-!4776400 @559300 #6564700
-!4428800 @558000 #5263800
-!5142100 @550900 #5639400
-!4382100 @1803500 #5461100
-!4702900 @509500 #5474000
-!4242300 @512400 #5974800
-!4719300 @522200 #5027400
-!4278100 @653400 #5130500
-!4795900 @672200 #5104900
-!4492100 @541200 #5846300
-!5168300 @553600 #6411500
-!4773100 @542400 #4995900
-!4260000 @540200 #6052400
-!4571100 @522300 #5737700
-!6964300 @1421800 #5261000
-!4278300 @534600 #7438000
-!7079600 @602400 #5264000
-!4326700 @544200 #6679200
-!14222200 @967000 #5471900
-!5508700 @663200 #4567100
-!4236600 @524500 #4762200
-!4382000 @540600 #5667700
-!5886900 @572800 #5087300
-!4577800 @758800 #5379300
-!6544100 @2364100 #5708200
-!4936600 @637800 #5603000
-!4270300 @517100 #4937500
-!4776500 @531900 #5036500
-!5480500 @540100 #6008400
-!4488400 @511000 #5066900
-!4218700 @520100 #5038200
-!4551100 @552300 #5109900
-!4719300 @548600 #4972900
-!4184200 @521100 #4997500
-!4513300 @534500 #4528600
-!4355900 @532500 #6630300
-!5245400 @553200 #6079800
-!5034500 @607900 #4978800
-!6447000 @374900 #5591400
-!4238200 @523300 #5721800
-!5325800 @592400 #5569200
-!6142400 @547700 #5541600
-!4984900 @564100 #5206100
-!4897100 @512000 #5707300
-!4980700 @540300 #6192100
-!4997000 @650100 #5250600
-!5928500 @998900 #7144800
-!5943500 @618000 #6725200
-!5440500 @513200 #5965200
-!5372600 @587100 #6407200
-!4848900 @530100 #5453700
-!4970500 @544300 #5718500
-!4910900 @652200 #5785200
-!5085500 @618300 #5363200
-!4886200 @527300 #5797100
-!5214300 @537200 #5906300
-!4924000 @526900 #5148900
-!4423600 @521700 #5270200
-!4888700 @593100 #5376000
-!4807100 @530100 #5875800
-!4894100 @541900 #5816000
-!5085600 @419100 #5260300
-!4609600 @563300 #5232500
-!4753300 @524100 #5375200
-!4928600 @549400 #5154200
-!4857800 @523800 #6071300
-!4751600 @535200 #6200800
-!5313200 @540400 #5145700
-!5853200 @516900 #5914700
-!10206600 @521900 #6142400
-!4835700 @553700 #6138600
-!4811000 @598700 #6053800
-!4816300 @525700 #5499100
-!5532000 @521600 #5338400
-!4821300 @517700 #5421000
-!4775300 @539700 #5192000
-!4796500 @565400 #5390700
-!4935900 @539500 #5381000
-!4764600 @526200 #5392700
-!4882900 @529300 #5294400
-!4921300 @533200 #5158200
-!4989000 @344100 #5313500
-!4827600 @527400 #5338600
-!4728600 @521500 #6250800
-!4870200 @551700 #5545200
-!4699700 @524700 #5528700
-!5024900 @517600 #5283600
-!8268200 @2664900 #5951200
-!4702500 @619000 #5335800
-!5581300 @513400 #5407600
-!4972600 @544100 #10391100
-!6792200 @560200 #7541200
-!5883300 @581700 #5849300
-!5067100 @599600 #5729400
-!5060700 @708400 #6068800
-!4815200 @524200 #6111400
-!5142200 @1009400 #5774300
-!4788600 @533300 #5461700
-!4851400 @531600 #6090800
-!5443800 @644200 #6660300
-!5349600 @534900 #6177600
-!4962000 @423000 #5688300
-!4691800 @661900 #5464000
-!4754000 @523100 #5279800
-!5033400 @512700 #5683700
-!4873100 @651100 #5693100
-!4855400 @525200 #5907500
-!5247900 @463000 #5435600
-!4897500 @778600 #5721200
-!4835800 @684600 #7757500
-!4906100 @509900 #5496000
-!4787400 @543000 #6180400
-!5003400 @543300 #6830000
-!4879600 @548600 #5262200
-!5833100 @507600 #7443900
-!6328400 @548200 #6111400
-!5714800 @1433000 #6955500
-!5398800 @549000 #7406700
-!4937300 @736100 #5927700
-!4975700 @566300 #5627600
-!5136200 @553700 #5939700
-!4868400 @535400 #5650800
-!5476500 @541900 #5233300
-!4991500 @512900 #5259800
-!5000300 @602800 #5766500
-!5196000 @604800 #5419600
-!4562000 @561400 #5310700
-!4869600 @567100 #5362300
-!4866100 @513100 #5639500
-!5343500 @598100 #6216600
-!5479400 @644600 #5576500
-!5673500 @641300 #5570100
-!5059800 @535200 #5469500
-!5215200 @1019200 #8253200
-!4862000 @528800 #7480000
-!4999500 @535700 #5247900
-!5014200 @535900 #6285200
-!4762900 @1047800 #5606600
-!4732200 @527300 #5315600
-!4718700 @526000 #5272800
-!4936500 @533200 #5624900
-!5120600 @517200 #5259000
-!4725400 @519500 #6236600
-!6233100 @647600 #5971800
-!5432100 @532500 #7352000
-!7021700 @530900 #5747000
-!5283000 @651400 #5512100
-!5132300 @542800 #5812800
-!6486600 @533600 #6147400
-!5790500 @546800 #6400100
-!5410600 @540900 #6140000
-!7263400 @603000 #10403100
-!5699200 @507200 #6885700
-!8624100 @637500 #5822500
-!9496400 @524100 #6156600
-!12796200 @606100 #6096900
-!7904300 @336800 #7901500
-!5184500 @300600 #5902600
-!5335300 @532300 #5802300
-!5318000 @634400 #5899800
-!5377000 @527300 #6836900
-!6106400 @544900 #5714500
-!5380500 @670300 #7200400
-!5874300 @634000 #6295100
-!6024800 @510300 #7239600
-!5830300 @532900 #8281600
-!5335300 @529300 #6679700
-!6067800 @551700 #10287100
-!10175900 @3760700 #7981900
-!5788500 @628700 #6731900
-!6097200 @611500 #6867100
-!5228400 @659900 #6217300
-!5734100 @525600 #5998300
-!5161800 @575900 #5976900
-!5619100 @609100 #5788900
-!5640100 @549200 #6975200
-!5296500 @526800 #6717100
-!6183400 @552800 #5444300
-!5468400 @602800 #5583000
-!5681900 @538500 #6011800
-!6241700 @546000 #7016500
-!5773000 @528400 #6015800
-!6311100 @633200 #6827700
-!5791100 @539800 #5737100
-!5261200 @510100 #5806100
-!7421500 @674000 #8445600
-!7006500 @548800 #5964200
-!6653100 @549100 #6250500
-!6649900 @565900 #6031500
-!6013800 @564400 #6818600
-!5507800 @552200 #8332200
-!6053500 @578700 #6086800
-!8651400 @1282000 #8242800
-!14469400 @608400 #6709500
-!6497800 @623300 #6337700
-!6557400 @548600 #7530700
-!6059200 @508900 #6070900
-!5958800 @542700 #5987500
-!5920100 @492600 #7666400
-!5978700 @552100 #6669600
-!6576600 @546400 #6282900
-!7426500 @515300 #8049100
-!10357300 @565800 #6160100
-!8562500 @645700 #6792700
-!5686500 @547600 #6584200
-!5220900 @535500 #5947900
-!6627100 @508200 #6139000
-!5333400 @524800 #6145400
-!5337400 @533700 #7178700
-!5704700 @578500 #5980900
-!5931000 @528900 #5677700
-!5720800 @375500 #7745900
-!6306200 @331000 #5982500
-!5327000 @631000 #6886600
-!5307600 @532300 #6909600
-!6694700 @534200 #6648300
-!6964100 @659900 #6329000
-!5714700 @460300 #6431200
-!5436800 @553700 #6031300
-!5318900 @537700 #6348000
-!5400800 @577700 #5877100
-!5405700 @530200 #5925700
-!6109600 @535800 #6250000
-!5797900 @618400 #6259900
-!5858200 @632600 #6714300
-!5253300 @648500 #6427100
-!5881600 @651000 #6748800
-!5771400 @1177500 #6962200
-!6247300 @554500 #5767300
-!5788600 @787900 #6250200
-!6489200 @509000 #5626200
-!5755500 @620600 #6698000
-!6153400 @535700 #6591000
-!6031800 @642900 #9066700
-!5736800 @577100 #6599300
-!5594200 @552700 #5947000
-!5430000 @564700 #6143400
-!5774900 @559200 #7233200
-!5886700 @550100 #6179200
-!5662800 @669900 #6197600
-!7540800 @566800 #6192300
-!6713400 @344500 #7040100
-!5925600 @577100 #6963100
-!6152900 @597500 #8243600
-!5485400 @556000 #6576100
-!6048900 @542600 #7265000
-!8689500 @557800 #14962200
-!5853600 @317800 #6769400
-!5747100 @529700 #6127700
-!6176700 @547200 #6691700
-!5636500 @555400 #6172900
-!5564500 @531900 #7997800
-!6172000 @534200 #5996600
-!6359800 @532600 #5863400
-!5295200 @558400 #7084900
-!6229100 @531800 #5817000
-!5296900 @523800 #5541200
-!5697000 @547400 #7206600
-!5439800 @537400 #5852800
-!5246500 @565200 #5959300
-!6536700 @569300 #7872600
-!5415300 @534600 #6063600
-!5493500 @690300 #7570900
-!5724300 @791300 #6237900
-!5705800 @471000 #6677900
-!5343700 @570800 #5966400
-!5656300 @553600 #5972500
-!5504300 @528800 #6508700
-!5363500 @562000 #6555700
-!5545400 @552900 #6765800
-!5557600 @586400 #5894700
-!5558100 @531400 #6670400
-!6219200 @604100 #6684000
-!5834100 @916800 #6268300
-!5541300 @588400 #6197100
-!5572100 @537800 #6183500
-!5997300 @688100 #5593600
-!5538500 @542300 #5878700
-!5375800 @552500 #5971900
-!5190400 @529700 #6083400
-!5374200 @524200 #6166600
-!5381900 @549400 #6306200
-!5299700 @524800 #6810100
-!5600800 @360000 #7125100
-!5609100 @794100 #7022900
-!5367400 @629800 #6429700
-!5372700 @419700 #7166000
-!5413300 @559500 #6063800
-!5536100 @545900 #6604300
-!5244900 @523000 #5955700
-!5362000 @524100 #5742400
-!5556000 @552300 #5885000
-!5311500 @524400 #6353400
-!5633900 @533300 #7120900
-!5703400 @522500 #6709000
-!7709900 @732600 #6794000
-!6401000 @1014900 #5891700
-!5517800 @574500 #5788100
-!5400400 @561400 #6222600
-!5326600 @526800 #5642400
-!5444700 @523300 #6526800
-!5572800 @525600 #5863900
-!6324000 @588700 #5668000
-!5803500 @510400 #5995300
-!5295100 @524200 #6121200
-!5105700 @596900 #6028700
-!5369800 @524000 #5918000
-!5555900 @538900 #10143400
-!6392200 @533100 #10245900
-!7650300 @797200 #7079500
-!14970100 @3311500 #7404800
-!5988800 @802400 #6074900
-!5433900 @541100 #7229500
-!8669800 @563000 #8727500
-!5928900 @801000 #6429300
-!5378000 @531500 #6101700
-!5615400 @546300 #6346100
-!7209100 @597500 #6728600
-!8471800 @693200 #8698700
-!6412300 @545300 #8632500
-!7339600 @641000 #7161200
-!6712900 @1074300 #6485800
-!6340000 @1252500 #6042400
-!5521000 @545400 #11640800
-!5807700 @508300 #8320000
-!5638000 @545500 #9059800
-!6819200 @734200 #7350700
-!6397600 @338800 #6296300
-!8113300 @1154000 #7724900
-!6238900 @443600 #6122400
-!7056900 @631900 #6496100
-!6576300 @1138100 #7897700
-!6369800 @651000 #7216300
-!5655600 @569200 #5918900
-!5792900 @523000 #5859900
-!6587400 @530000 #5776100
-!5583800 @641100 #6664400
-!5791900 @531500 #6572400
-!7507600 @696500 #6370300
+!992200 @523000 $1547500
+!1571900 @523900 $2103300
+!2385000 @533000 $2146900
+!2108700 @603200 $2548600
+!2102100 @524200 $2624000
+!2157800 @531400 $2635900
+!2624400 @528900 $3226000
+!2621800 @522900 $3156800
+!2620200 @522800 $3472500
+!2677100 @520000 $3114000
+!2590100 @570100 $3157600
+!2594400 @521300 $3171100
+!3252400 @521300 $3635800
+!3125000 @525900 $3696100
+!3121100 @520000 $3651500
+!3128500 @520200 $3675900
+!3119400 @519700 $3639100
+!3123800 @520100 $3638200
+!3114300 @520300 $3649200
+!3122200 @520800 $3650000
+!3112000 @524800 $3647600
+!3133600 @519800 $3650200
+!3239000 @522700 $3643000
+!3122100 @520200 $3650300
+!3010300 @526700 $3637400
+!3647200 @520400 $4220500
+!3645600 @508700 $4175200
+!3706900 @528000 $4224400
+!3624800 @521300 $4181400
+!3691500 @520700 $4235000
+!3674400 @523800 $4262000
+!3680700 @523400 $4280500
+!3891300 @532900 $4305100
+!3858100 @525600 $4184200
+!3778700 @523700 $4188200
+!3683200 @523100 $4196200
+!3679800 @523200 $4207300
+!3683800 @523600 $4199300
+!7481900 @533000 $4199300
+!3691600 @532100 $4207100
+!3691600 @531200 $4207100
+!3695300 @527800 $4821300
+!3699000 @523500 $4404000
+!3699000 @737600 $9158000
+!3632400 @518600 $6380600
+!4230400 @626400 $4296200
+!3682500 @519100 $4277700
+!3693800 @532800 $4220200
+!3703500 @517700 $4073300
+!3672700 @523200 $4388200
+!4492200 @533900 $4225300
+!4492200 @518800 $4225300
+!4191500 @521900 $4714100
+!4185600 @525400 $4736300
+!4187500 @524900 $4770600
+!4235400 @524900 $4739900
+!4449900 @524900 $4739900
+!4219300 @522600 $4859200
+!4268200 @523800 $4705700
+!4190300 @521500 $4736100
+!4219000 @517700 $4733300
+!4197400 @529200 $4876100
+!4253800 @526400 $4716800
+!4250700 @524100 $4725900
+!4186500 @520200 $4697900
+!4158500 @520000 $4841400
+!4294600 @530000 $4719400
+!4189900 @528900 $4697100
+!4292500 @520600 $4738100
+!4202300 @523400 $4723200
+!4192900 @523000 $7342700
+!4325600 @524000 $4712100
+!4160100 @522900 $4742300
+!4177200 @532700 $4758600
+!4201400 @527800 $6682400
+!4245400 @530900 $4741700
+!4246800 @523500 $4708500
+!4189300 @523300 $5955600
+!4279800 @526500 $4718400
+!4281100 @523900 $4736400
+!4262900 @517500 $4726200
+!4217300 @522900 $4979200
+!4428800 @533000 $4740700
+!4250000 @524200 $4715300
+!4211900 @529400 $4742800
+!4236800 @530600 $5682200
+!4283700 @525400 $4743800
+!4207600 @522200 $4695300
+!4430000 @522500 $4730800
+!4207800 @523700 $4844800
+!3980000 @508900 $4684100
+!5249000 @527400 $4773000
+!4250300 @523400 $5153900
+!5193600 @534600 $4740900
+!4167200 @524000 $4698400
+!4218600 @520500 $4822200
+!4205700 @524300 $5009200
+!4502300 @528400 $4718000
+!4203100 @523900 $4728700
+!4213600 @525600 $4962900
+!4178300 @522900 $4799600
+!4226700 @521100 $4730500
+!4689100 @520600 $5279600
+!4725300 @523300 $5374400
+!4849400 @533300 $5309900
+!4717800 @522000 $5514500
+!4725000 @537500 $5623100
+!4843900 @525400 $5254200
+!4735800 @529600 $6881500
+!4815900 @535300 $5263800
+!4749100 @545200 $5504400
+!4940100 @577500 $5345500
+!4820200 @542700 $5297900
+!4724000 @524900 $7700400
+!5001900 @528700 $5286200
+!4783000 @552100 $5457900
+!5012200 @534300 $5515000
+!4827800 @528700 $5280200
+!4760200 @525000 $8904200
+!4795200 @520100 $5251700
+!4685600 @522200 $5272600
+!4725500 @522200 $5300000
+!4707100 @527700 $5251800
+!4754000 @522200 $5243600
+!4676700 @520400 $5216400
+!4682700 @519900 $5317100
+!4792500 @524900 $5309800
+!4704400 @523000 $5281300
+!4483700 @524600 $5211000
+!4731400 @520300 $5218100
+!4681500 @520700 $5316100
+!4930900 @538300 $5223200
+!4680200 @520500 $5218800
+!4679600 @520500 $5409800
+!4696600 @520600 $5218600
+!4680900 @520100 $5218600
+!4733500 @572000 $5205300
+!4686400 @523700 $5228100
+!4686000 @520000 $5324200
+!4686000 @511700 $5239500
+!4685600 @509200 $5261200
+!4673200 @526100 $5283700
+!4823100 @520800 $5217500
+!4728800 @520400 $5290000
+!4882000 @544800 $5233800
+!4685400 @519900 $5220900
+!4676700 @520100 $5305000
+!4754800 @531400 $5248400
+!4681500 @520700 $5220600
+!4683800 @520800 $5282100
+!4700400 @520000 $5239500
+!4705500 @520200 $5442900
+!4783800 @533300 $5265200
+!4842100 @531900 $5298500
+!4716000 @522900 $5346100
+!8851100 @589100 $5346100
+!8851100 @524100 $5237200
+!7396900 @734900 $5305700
+!4758900 @526800 $5251700
+!4724100 @523400 $5372200
+!4791600 @526600 $5250700
+!4720800 @534000 $5264000
+!4697700 @520200 $5398400
+!5455800 @520900 $5197500
+!4684100 @508400 $5248300
+!5249900 @508400 $5875800
+!4956300 @536700 $5287100
+!4809200 @540200 $5467500
+!4865600 @523800 $5280800
+!4832300 @532600 $5438000
+!4991800 @511200 $5406600
+!6964500 @530600 $5316300
+!4774000 @786200 $5281000
+!4734500 @521100 $5289800
+!4719400 @522100 $5539300
+!4923600 @532900 $5278300
+!4677200 @526800 $5278300
+!4721800 @519400 $5184800
+!4665600 @518800 $5830200
+!4757900 @520600 $5200200
+!4691400 @520200 $5205200
+!4791100 @522800 $5275600
+!4844300 @525200 $5250200
+!4727300 @523600 $5318400
+!4799000 @523800 $5356100
+!4733000 @521200 $5253300
+!4709500 @523000 $5824900
+!4721600 @534500 $5250600
+!4885000 @524000 $5242000
+!4730700 @523700 $5155700
+!4819900 @526700 $5243900
+!4819700 @523600 $5248700
+!4717400 @523400 $5395400
+!4815600 @524700 $5249700
+!4727200 @523700 $5261400
+!4839200 @523800 $5255200
+!4685300 @521000 $5262900
+!4699800 @520500 $5377500
+!4798700 @522000 $5203800
+!4691300 @508500 $5198000
+!4688400 @527200 $5231800
+!5161500 @524900 $5209900
+!4737600 @523500 $5401600
+!4882400 @528400 $5262000
+!5265200 @537400 $5840900
+!5229900 @546300 $5745100
+!7223700 @544000 $5782100
+!5235100 @522300 $6032600
+!5379800 @531400 $5768700
+!5247400 @523600 $5916900
+!7052200 @537900 $5858400
+!5236000 @534000 $6018300
+!5583400 @525000 $5778400
+!5209700 @520800 $5727100
+!5331300 @522500 $5720100
+!5204700 @508600 $6072600
+!5403200 @530700 $5843200
+!5316000 @523400 $6467700
+!5365500 @517000 $5783400
+!5268900 @523600 $5882500
+!5495600 @521500 $5729100
+!5220800 @520600 $5938400
+!5282100 @532400 $5852400
+!5303600 @530500 $6031700
+!5267400 @542000 $5789200
+!5317100 @840200 $5827500
+!5276700 @527700 $5862600
+!5868100 @538000 $5942200
+!5287400 @527000 $6020100
+!6308100 @526900 $5766200
+!5253600 @527500 $6241300
+!7707500 @551000 $5772200
+!7018000 @554400 $7635900
+!5232300 @529600 $5869000
+!5807500 @527900 $5751500
+!5242300 @523800 $5753400
+!5339200 @524100 $5757800
+!5229100 @541100 $5765500
+!5461900 @528300 $5761600
+!5260700 @524600 $5826600
+!5397200 @540100 $5798400
+!5263100 @524400 $5856700
+!5347700 @533100 $5777400
+!5245700 @522900 $5980200
+!5873200 @540300 $5815300
+!5252100 @520800 $5796900
+!5202700 @520600 $5787300
+!5364100 @531800 $5731500
+!5197800 @519900 $5739800
+!5242400 @526700 $5844000
+!5339400 @519300 $8539200
+!5509400 @537400 $8184600
+!5242600 @523700 $5777200
+!5306600 @533600 $5821000
+!5733800 @524200 $5724400
+!5256500 @520500 $5813200
+!5311100 @521600 $5634100
+!5236900 @521200 $5725200
+!5220200 @527100 $5945400
+!5273200 @523300 $5766600
+!5240900 @523100 $5900600
+!5262900 @516900 $5792100
+!5247800 @580500 $5766500
+!5233500 @523400 $5787500
+!5384400 @529500 $5893100
+!5242000 @516900 $5784000
+!5411000 @527400 $5768100
+!5208600 @520400 $5733400
+!5320100 @524100 $5792700
+!5238000 @523500 $5818200
+!5263100 @523900 $5778000
+!5241400 @523600 $5834800
+!5363200 @523800 $5765100
+!5248900 @524200 $5861200
+!5309600 @524700 $5767000
+!5231600 @529900 $5665800
+!5372300 @523200 $5844700
+!5368700 @510900 $7924900
+!5229000 @534200 $6316300
+!5282600 @533300 $6316300
+!5297500 @531900 $6020400
+!5290400 @531900 $6087500
+!5022200 @539100 $5818800
+!5304400 @530300 $5812000
+!5473800 @533800 $5799300
+!5279700 @526300 $6023500
+!5569900 @527600 $5730900
+!5203300 @519800 $8122900
+!5248900 @523500 $5762800
+!5385800 @527100 $5767400
+!5231900 @525200 $5774200
+!5275500 @529200 $5728800
+!5194800 @520700 $5740200
+!5272700 @522900 $5723100
+!5292600 @529900 $6494700
+!7703500 @549000 $6494700
+!5224100 @515400 $8258400
+!5384300 @523600 $5766000
+!5249200 @517200 $6984900
+!5351100 @755000 $5769100
+!5225000 @525000 $5811000
+!5243400 @523800 $5873600
+!5195300 @519800 $5739800
+!5197400 @634900 $5742600
+!5194500 @520600 $5725500
+!5322200 @530700 $5752900
+!5215200 @520100 $5780500
+!5283800 @525000 $5731400
+!5323000 @524900 $5786100
+!5330600 @529400 $5789200
+!5213400 @521100 $5893000
+!5270600 @521200 $5735600
+!5210700 @520200 $5950400
+!5432000 @524100 $5720900
+!5212500 @508400 $5854800
+!5315700 @519900 $5738300
+!5198100 @520000 $5830100
+!5093500 @529700 $5720800
+!5278200 @523700 $5833500
+!5543300 @524700 $5795200
+!5247700 @523700 $5855200
+!5307700 @524300 $5778900
+!5214200 @522100 $6065900
+!5331800 @532000 $5786300
+!5241400 @523800 $5796400
+!5350400 @524500 $5751000
+!5217700 @520400 $5817900
+!5349800 @522500 $5736000
+!5209400 @519600 $6363300
+!5345500 @523600 $5775400
+!5394000 @524400 $9727100
+!5217100 @520100 $5999900
+!5454200 @528300 $5769900
+!5222900 @528200 $6066000
+!5250200 @538900 $7575600
+!5270000 @708400 $5984800
+!5236400 @522200 $7065500
+!5403800 @528100 $5748200
+!5295000 @536900 $6075700
+!5295000 @525900 $5792500
+!5220800 @520900 $5727900
+!5232600 @526600 $5849600
+!4679400 @523600 $5715000
+!5209400 @520400 $5862600
+!5283600 @521300 $5717500
+!5209600 @521800 $5809600
+!5426900 @524700 $5762600
+!5236100 @523100 $5874300
+!5308200 @524100 $5776000
+!5254000 @523400 $5866800
+!5317800 @524600 $5770700
+!5263700 @523900 $5857100
+!5433900 @528600 $5768500
+!5225300 @520200 $5839100
+!5308300 @530700 $5724300
+!5202200 @520000 $5759400
+!5334900 @508800 $5743500
+!5263800 @520400 $5795000
+!5245400 @523800 $5754500
+!5213300 @519800 $5898200
+!5205600 @521000 $5740800
+!5252100 @519800 $5842800
+!5207400 @520900 $5758500
+!5201900 @521900 $5870600
+!5205300 @520100 $5733500
+!6875200 @770700 $5748300
+!5278500 @521300 $5742900
+!5285600 @522800 $5739200
+!5219400 @508300 $5746300
+!5216000 @520300 $5809100
+!5263800 @520400 $5721500
+!5203400 @519300 $8360900
+!5212300 @520600 $5930200
+!5434100 @522400 $7526300
+!5210200 @520100 $5799500
+!5257000 @522300 $5742900
+!5212500 @520500 $5856800
+!5219400 @520200 $5740200
+!5205200 @526900 $8137800
+!5196400 @536400 $5726000
+!5254600 @672600 $5736600
+!5218900 @520800 $5745500
+!5344500 @635600 $5902800
+!5198400 @529800 $5734100
+!5442400 @523800 $5728200
+!5510100 @523100 $5847800
+!5224000 @555500 $5748200
+!5276600 @532200 $5979700
+!5255400 @529200 $5764800
+!5293600 @528800 $6148000
+!5340100 @534500 $8034100
+!5608300 @526100 $5878900
+!5273400 @527300 $6044900
+!5392700 @531600 $5811400
+!5281400 @531900 $5988500
+!5583000 @524800 $7574600
+!5252200 @531100 $5867000
+!5215900 @520100 $5748300
+!5210500 @520400 $5909500
+!5351000 @528700 $5720800
